@@ -246,7 +246,12 @@ const index = {
 
 const pricingItems = [];
 for (const plan of pricingMessages.pricing.plans) {
-  const amount = Math.round(parseFloat(clean(plan.price).replace('$', '')) * 100);
+  // Annual cards show the monthly-equivalent price (as the reference does) but
+  // Stripe is charged for a full year, so the amount is 12x the displayed price.
+  const monthlyEquivalent = Math.round(
+    parseFloat(clean(plan.price).replace('$', '')) * 100
+  );
+  const amount = plan.group === 'yearly' ? monthlyEquivalent * 12 : monthlyEquivalent;
   const creditsLine = plan.features.find((f) => f.includes('credits')) || '';
   const yearlyMatch = /\((\d[\d,]*) credits\/year\)/.exec(creditsLine);
   const creditsMatch = /(\d[\d,]*)/.exec(creditsLine);
@@ -255,7 +260,7 @@ for (const plan of pricingMessages.pricing.plans) {
   );
   const perYear = plan.group === 'yearly';
   const costPer100 = perYear
-    ? `$${((amount / 100) * 12 / (credits / 100)).toFixed(2)}`
+    ? `$${(amount / 100 / (credits / 100)).toFixed(2)}`
     : '';
   const extraFeatures = [
     ...(costPer100
