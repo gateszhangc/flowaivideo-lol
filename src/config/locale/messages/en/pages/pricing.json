@@ -93,7 +93,7 @@
               "No Watermark",
               "Priority customer support"
             ],
-            "interval": "monthly",
+            "interval": "month",
             "amount": 1990,
             "currency": "USD",
             "price": "$19.9",
@@ -139,7 +139,7 @@
               "Priority customer support",
               "Limited offer"
             ],
-            "interval": "monthly",
+            "interval": "month",
             "amount": 9990,
             "currency": "USD",
             "price": "$99.9",
@@ -183,7 +183,7 @@
               "No Watermark",
               "Priority customer support"
             ],
-            "interval": "monthly",
+            "interval": "month",
             "amount": 3990,
             "currency": "USD",
             "price": "$39.9",
@@ -232,7 +232,7 @@
               "Cost per 100 credits $1.24",
               "Yearly only"
             ],
-            "interval": "yearly",
+            "interval": "year",
             "amount": 990,
             "currency": "USD",
             "price": "$9.9",
@@ -282,7 +282,7 @@
               "Yearly only",
               "Limited offer"
             ],
-            "interval": "yearly",
+            "interval": "year",
             "amount": 4990,
             "currency": "USD",
             "price": "$49.9",
@@ -331,7 +331,7 @@
               "Cost per 100 credits $0.99",
               "Yearly only"
             ],
-            "interval": "yearly",
+            "interval": "year",
             "amount": 1990,
             "currency": "USD",
             "price": "$19.9",

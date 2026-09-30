@@ -273,7 +273,14 @@ for (const plan of pricingMessages.pricing.plans) {
     label: plan.label || '',
     features_title: plan.features_title,
     features: [...plan.features, ...extraFeatures],
-    interval: plan.group === 'one-time' ? 'one-time' : plan.group,
+    // Stripe only accepts day|week|month|year for `price_data.recurring.interval`,
+    // so the tab group ("monthly"/"yearly") and the billing interval differ.
+    interval:
+      plan.group === 'one-time'
+        ? 'one-time'
+        : plan.group === 'yearly'
+          ? 'year'
+          : 'month',
     amount,
     currency: 'USD',
     price: clean(plan.price),
