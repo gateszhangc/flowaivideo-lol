@@ -1,0 +1,589 @@
+{
+  "metadata": {
+    "title": "Simple, Transparent Pricing | Flow AI Video",
+    "description": "Select the ideal package to create stunning videos with Flow Video Generator"
+  },
+  "page": {
+    "title": "Simple, Transparent Pricing",
+    "sections": {
+      "pricing": {
+        "id": "pricing",
+        "title": "Simple, Transparent Pricing",
+        "description": "Select the ideal package to create stunning videos with Flow Video Generator",
+        "benefits": [
+          "Start with free credits",
+          "Cancel anytime",
+          "Secure payment"
+        ],
+        "notice": "Your local currency and applicable taxes are shown at checkout.",
+        "annual_badge_label": "Flash Sale 50%",
+        "offer": {
+          "badge": "Limited Time Offer",
+          "badge_active": "Active",
+          "title": "Save on Annual Plans 50%",
+          "subtitle": "Secure your best price with our limited-time annual discount.",
+          "social_proof": "Join 10,000+ users who upgraded to Pro",
+          "rating": "4.9/5.0 rating",
+          "live": "LIVE",
+          "upgraded_today": "453+ upgraded today",
+          "pills": [
+            "No setup fees",
+            "Cancel anytime",
+            "30-day money back"
+          ],
+          "cta": "Get Annual Plan"
+        },
+        "stats": [
+          {
+            "value": "10,000+",
+            "label": "Active Users"
+          },
+          {
+            "value": "1M+",
+            "label": "Videos Created"
+          },
+          {
+            "value": "4.9/5",
+            "label": "User Rating"
+          },
+          {
+            "value": "24/7",
+            "label": "Support"
+          }
+        ],
+        "groups": [
+          {
+            "name": "yearly",
+            "title": "Annually",
+            "is_featured": true,
+            "label": "Save 50%"
+          },
+          {
+            "name": "monthly",
+            "title": "Monthly"
+          },
+          {
+            "name": "one-time",
+            "title": "One Time"
+          }
+        ],
+        "items": [
+          {
+            "title": "Basic",
+            "description": "Perfect for hobbyists and beginners",
+            "label": "",
+            "features_title": "Everything you need to start:",
+            "features": [
+              "Flow AI Video Basic Plan",
+              "800 credits per month",
+              "Up to 40 videos/month",
+              "Flow Video Generator",
+              "Unlimited Flow AI Video downloads",
+              "Permanent Flow AI Video history",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "interval": "monthly",
+            "amount": 1990,
+            "currency": "USD",
+            "price": "$19.9",
+            "original_price": "",
+            "unit": "/month",
+            "is_featured": false,
+            "tip": "",
+            "button": {
+              "title": "Buy Now",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-monthly-basic",
+            "product_name": "Flow AI Video Basic (monthly)",
+            "credits": 800,
+            "valid_days": 30,
+            "group": "monthly"
+          },
+          {
+            "title": "Enterprise",
+            "description": "For teams and businesses",
+            "label": "Most Popular",
+            "features_title": "Everything in Basic, plus:",
+            "features": [
+              "Flow AI Video Enterprise Plan",
+              "6000 credits per month",
+              "Up to 600 videos/month",
+              "Flow Video",
+              "Unlimited Flow AI Video downloads",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support",
+              "Limited offer"
+            ],
+            "interval": "monthly",
+            "amount": 9990,
+            "currency": "USD",
+            "price": "$99.9",
+            "original_price": "",
+            "unit": "/month",
+            "is_featured": true,
+            "tip": "",
+            "button": {
+              "title": "Buy Now",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-monthly-enterprise",
+            "product_name": "Flow AI Video Enterprise (monthly)",
+            "credits": 6000,
+            "valid_days": 30,
+            "group": "monthly"
+          },
+          {
+            "title": "Pro",
+            "description": "For creators and professionals",
+            "label": "",
+            "features_title": "Everything in Basic, plus:",
+            "features": [
+              "Flow AI Video Pro Plan",
+              "2000 credits per month",
+              "Up to 200 videos/month",
+              "Flow Video Maker",
+              "Unlimited Flow AI Video downloads",
+              "Permanent Flow AI Video history",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "interval": "monthly",
+            "amount": 3990,
+            "currency": "USD",
+            "price": "$39.9",
+            "original_price": "",
+            "unit": "/month",
+            "is_featured": false,
+            "tip": "",
+            "button": {
+              "title": "Buy Now",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-monthly-pro",
+            "product_name": "Flow AI Video Pro (monthly)",
+            "credits": 2000,
+            "valid_days": 30,
+            "group": "monthly"
+          },
+          {
+            "title": "Basic",
+            "description": "Perfect for hobbyists and beginners",
+            "label": "",
+            "features_title": "Everything you need to start:",
+            "features": [
+              "Flow AI Video Basic Yearly Plan",
+              "800 credits per month (9600 credits/year)",
+              "Up to 80 videos/month",
+              "Flow Video Generator",
+              "Unlimited Flow AI Video downloads",
+              "9600 Flow AI Video credits with annual billing",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support",
+              "9,600 Flow AI Video credits/year",
+              "Cost per 100 credits $1.24",
+              "Yearly only"
+            ],
+            "interval": "yearly",
+            "amount": 990,
+            "currency": "USD",
+            "price": "$9.9",
+            "original_price": "",
+            "unit": "/month",
+            "is_featured": false,
+            "tip": "",
+            "button": {
+              "title": "Get Started",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-yearly-basic",
+            "product_name": "Flow AI Video Basic (yearly)",
+            "credits": 800,
+            "valid_days": 365,
+            "group": "yearly"
+          },
+          {
+            "title": "Enterprise",
+            "description": "For teams and businesses",
+            "label": "Most Popular",
+            "features_title": "Everything in Professional, plus:",
+            "features": [
+              "Flow AI Video Enterprise Yearly Plan",
+              "6000 credits per month (72000 credits/year)",
+              "Up to 600 videos/month",
+              "Flow Video",
+              "Unlimited Flow AI Video downloads",
+              "72000 Flow AI Video credits with annual billing",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support",
+              "72,000 Flow AI Video credits/year",
+              "Cost per 100 credits $0.83",
+              "Yearly only",
+              "Limited offer"
+            ],
+            "interval": "yearly",
+            "amount": 4990,
+            "currency": "USD",
+            "price": "$49.9",
+            "original_price": "",
+            "unit": "/month",
+            "is_featured": true,
+            "tip": "",
+            "button": {
+              "title": "Get Started",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-yearly-enterprise",
+            "product_name": "Flow AI Video Enterprise (yearly)",
+            "credits": 6000,
+            "valid_days": 365,
+            "group": "yearly"
+          },
+          {
+            "title": "Professional",
+            "description": "For creators and professionals",
+            "label": "",
+            "features_title": "Everything in Basic, plus:",
+            "features": [
+              "Flow AI Video Pro Yearly Plan",
+              "2000 credits per month (24000 credits/year)",
+              "Up to 200 videos/month",
+              "Flow Video Maker",
+              "Unlimited Flow AI Video downloads",
+              "24000 Flow AI Video credits with annual billing",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support",
+              "24,000 Flow AI Video credits/year",
+              "Cost per 100 credits $0.99",
+              "Yearly only"
+            ],
+            "interval": "yearly",
+            "amount": 1990,
+            "currency": "USD",
+            "price": "$19.9",
+            "original_price": "",
+            "unit": "/month",
+            "is_featured": false,
+            "tip": "",
+            "button": {
+              "title": "Get Started",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-yearly-professional",
+            "product_name": "Flow AI Video Professional (yearly)",
+            "credits": 2000,
+            "valid_days": 365,
+            "group": "yearly"
+          },
+          {
+            "title": "Starter Package",
+            "description": "Great for occasional use",
+            "label": "",
+            "features_title": "Perfect for getting started:",
+            "features": [
+              "Flow AI Video Starter Package",
+              "1000 credits",
+              "Up to 50 videos",
+              "Flow Video Generator",
+              "Unlimited Flow AI Video downloads",
+              "Permanent Flow AI Video history",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "interval": "one-time",
+            "amount": 2990,
+            "currency": "USD",
+            "price": "$29.9",
+            "original_price": "",
+            "is_featured": false,
+            "tip": "",
+            "button": {
+              "title": "Pay Now",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-one-time-starter-package",
+            "product_name": "Flow AI Video Starter Package (one-time)",
+            "credits": 1000,
+            "valid_days": 0,
+            "group": "one-time"
+          },
+          {
+            "title": "Growth Package",
+            "description": "Ideal for professional creators",
+            "label": "Most Popular",
+            "features_title": "Everything in Starter, plus:",
+            "features": [
+              "Flow AI Video Growth Package",
+              "2000 credits",
+              "Up to 200 videos",
+              "Flow Video",
+              "Unlimited Flow AI Video downloads",
+              "Permanent Flow AI Video history",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support",
+              "Limited offer"
+            ],
+            "interval": "one-time",
+            "amount": 4990,
+            "currency": "USD",
+            "price": "$49.9",
+            "original_price": "",
+            "is_featured": true,
+            "tip": "",
+            "button": {
+              "title": "Pay Now",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-one-time-growth-package",
+            "product_name": "Flow AI Video Growth Package (one-time)",
+            "credits": 2000,
+            "valid_days": 0,
+            "group": "one-time"
+          },
+          {
+            "title": "Professional Package",
+            "description": "Best value for businesses & heavy users",
+            "label": "",
+            "features_title": "Everything in Growth, plus:",
+            "features": [
+              "Flow AI Video Professional Package",
+              "5000 credits",
+              "Up to 500 videos",
+              "Flow Video Maker",
+              "Unlimited Flow AI Video downloads",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "interval": "one-time",
+            "amount": 9990,
+            "currency": "USD",
+            "price": "$99.9",
+            "original_price": "",
+            "is_featured": false,
+            "tip": "",
+            "button": {
+              "title": "Pay Now",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-one-time-professional-package",
+            "product_name": "Flow AI Video Professional Package (one-time)",
+            "credits": 5000,
+            "valid_days": 0,
+            "group": "one-time"
+          },
+          {
+            "title": "Business Package",
+            "description": "Best value for businesses & heavy users",
+            "label": "",
+            "features_title": "Everything in Professional, plus:",
+            "features": [
+              "Flow AI Video Business Package",
+              "12000 credits",
+              "Up to 1200 videos",
+              "Flow Video Generator",
+              "Unlimited Flow AI Video downloads",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "interval": "one-time",
+            "amount": 19990,
+            "currency": "USD",
+            "price": "$199.9",
+            "original_price": "",
+            "is_featured": false,
+            "tip": "",
+            "button": {
+              "title": "Pay Now",
+              "url": "",
+              "icon": "RiFlashlightFill"
+            },
+            "product_id": "flow-one-time-business-package",
+            "product_name": "Flow AI Video Business Package (one-time)",
+            "credits": 12000,
+            "valid_days": 0,
+            "group": "one-time"
+          }
+        ]
+      },
+      "faq": {
+        "id": "faq",
+        "title": "Frequently Asked Questions",
+        "description": "Get answers to common questions about our pricing plans and credits system",
+        "items": [
+          {
+            "question": "What are credits and how do they work?",
+            "answer": "10 credits generate 1 high-quality image. Credits are automatically refilled at the start of each billing cycle - monthly for monthly plans, all at once for yearly plans. One-time credit packs never expire."
+          },
+          {
+            "question": "Can I change my plan anytime?",
+            "answer": "Yes, you can upgrade or downgrade your plan at any time. Upgrades take effect immediately, while downgrades take effect at the next billing cycle. Your current credits will remain available."
+          },
+          {
+            "question": "Do unused credits roll over?",
+            "answer": "Monthly plan credits do not roll over to the next month. Yearly plan credits are valid for the entire subscription period. One-time credit packs never expire. We recommend choosing a plan based on your actual usage needs."
+          },
+          {
+            "question": "What payment methods are supported?",
+            "answer": "We support credit cards, debit cards, and various other payment methods through Stripe. All payments are processed securely through our trusted payment partners."
+          },
+          {
+            "question": "Can I cancel my subscription anytime?",
+            "answer": "Yes, you can cancel your subscription at any time. You'll continue to have access to your plan benefits until the end of your current billing period. For assistance with cancellation, please contact our support team."
+          },
+          {
+            "question": "What's the difference between monthly and yearly plans?",
+            "answer": "Yearly plans offer significant savings - up to 20% off compared to monthly billing. Monthly plans give you flexibility with month-to-month commitment, while yearly plans provide better value for long-term users."
+          },
+          {
+            "question": "How do one-time credit packs work?",
+            "answer": "One-time credit packs are perfect if you don't need regular monthly credits. You pay once and get credits that never expire. These are ideal for occasional users or those who want to try our service without a subscription."
+          },
+          {
+            "question": "What happens if I run out of credits?",
+            "answer": "If you run out of credits, you can either wait for your next billing cycle (for subscription plans) or purchase additional one-time credit packs. You can also upgrade your plan to get more monthly credits."
+          },
+          {
+            "question": "Are there any hidden fees?",
+            "answer": "No, there are no hidden fees. The price you see is exactly what you'll pay. All taxes and processing fees are clearly shown during checkout before you complete your purchase."
+          },
+          {
+            "question": "Can I use generated images commercially?",
+            "answer": "Yes, all our paid plans include commercial usage rights. You can use the AI-generated images for business purposes, marketing, social media, and other commercial applications. Free trial images may have usage restrictions."
+          }
+        ]
+      }
+    }
+  },
+  "messages": {
+    "credits": "Credits",
+    "yearly_only": "Yearly only",
+    "cancel_anytime": "Cancel anytime",
+    "cost_per_100_credits_label": "Cost per 100 credits",
+    "cancel_support_prefix": "Cancel subscription, please contact the support email:",
+    "support_email": "support@flowaivideo.lol",
+    "per_month_short": "/month",
+    "per_year_short": "/year"
+  }
+}

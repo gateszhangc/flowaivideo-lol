@@ -1,0 +1,251 @@
+{
+  "header": {
+    "id": "header",
+    "brand": {
+      "title": "Flow AI Video",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Flow AI Video",
+        "width": 40,
+        "height": 40
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Flow Studio",
+          "url": "/#studio",
+          "icon": "Sparkles"
+        },
+        {
+          "title": "AI Features",
+          "url": "/#features",
+          "icon": "Box"
+        },
+        {
+          "title": "AI Models",
+          "icon": "RiRobot2Line",
+          "children": [
+            {
+              "title": "Text to Video",
+              "description": "Turn a prompt into a 4K cinematic clip",
+              "url": "/#studio",
+              "icon": "RiVideoLine"
+            },
+            {
+              "title": "Image to Video",
+              "description": "Animate a still image with motion synthesis",
+              "url": "/#studio",
+              "icon": "RiImage2Line"
+            },
+            {
+              "title": "Reference to Video",
+              "description": "Match the style and motion of a reference",
+              "url": "/#studio",
+              "icon": "Sparkles"
+            },
+            {
+              "title": "Veo 3",
+              "description": "Google Flow Video motion synthesis",
+              "url": "/#models",
+              "icon": "Zap"
+            },
+            {
+              "title": "Seedance 2.5",
+              "description": "Multi-shot storytelling model",
+              "url": "/#models",
+              "icon": "Film"
+            },
+            {
+              "title": "Kling 4.0",
+              "description": "High-motion cinematic generation",
+              "url": "/#models",
+              "icon": "Clapperboard"
+            }
+          ]
+        },
+        {
+          "title": "How to Use",
+          "url": "/#how-it-works",
+          "icon": "BookOpenText"
+        },
+        {
+          "title": "Pricing",
+          "url": "/pricing",
+          "icon": "DollarSign"
+        },
+        {
+          "title": "FAQ",
+          "url": "/#faq",
+          "icon": "MessageSquareText"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Save 50%",
+        "url": "/pricing",
+        "icon": "Zap",
+        "variant": "default"
+      }
+    ],
+    "show_theme": false,
+    "show_locale": false,
+    "show_sign": true,
+    "user_nav": {
+      "show_name": true,
+      "show_credits": true,
+      "show_sign_out": true,
+      "items": [
+        {
+          "title": "Billing",
+          "url": "/settings/billing",
+          "icon": "CreditCard"
+        },
+        {
+          "title": "Settings",
+          "url": "/settings",
+          "icon": "Settings"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "id": "footer",
+    "brand": {
+      "title": "Flow AI Video",
+      "description": "Flow AI Video builds beautiful Flow AI Video 4K with advanced motion synthesis and original premium quality. Flow Video Generator provides enterprise video creation with multi-shot storytelling.",
+      "logo": {
+        "src": "/logo.svg",
+        "alt": "Flow AI Video",
+        "width": 40,
+        "height": 40
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "AI TOOLS",
+          "children": [
+            { "title": "Free AI Video", "url": "/#studio" },
+            { "title": "Free AI Image", "url": "/#studio" },
+            { "title": "Text to Image", "url": "/#studio" },
+            { "title": "AI Photo Editor", "url": "/#features" },
+            { "title": "AI Image Upscaler", "url": "/#features" },
+            { "title": "Background Remover", "url": "/#features" }
+          ]
+        },
+        {
+          "title": "VIDEO TOOLS",
+          "children": [
+            { "title": "AI Lip Sync", "url": "/#features" },
+            { "title": "AI TikTok Video", "url": "/#features" },
+            { "title": "Product Ad Generator", "url": "/#features" },
+            { "title": "Flow Video Studio", "url": "/#studio" }
+          ]
+        },
+        {
+          "title": "VIDEO MODELS",
+          "children": [
+            { "title": "Veo 3", "url": "/#models" },
+            { "title": "Sora 2", "url": "/#models" },
+            { "title": "Seedance 2.5", "url": "/#models" },
+            { "title": "Seedance 2.0", "url": "/#models" },
+            { "title": "Seedance AI", "url": "/#models" },
+            { "title": "MiniMax H3", "url": "/#models" },
+            { "title": "Wan 3.0", "url": "/#models" },
+            { "title": "Wan 2.5", "url": "/#models" },
+            { "title": "Kling 3.0", "url": "/#models" },
+            { "title": "Grok Imagine", "url": "/#models" }
+          ]
+        },
+        {
+          "title": "IMAGE MODELS",
+          "children": [
+            { "title": "Nano Banana", "url": "/#models" },
+            { "title": "GPT Image 2", "url": "/#models" },
+            { "title": "Seedream 4.0", "url": "/#models" },
+            { "title": "Muse Image AI", "url": "/#models" }
+          ]
+        },
+        {
+          "title": "RESOURCES",
+          "children": [
+            { "title": "Inspiration", "url": "/#showcase" },
+            { "title": "Showcase", "url": "/#showcase" },
+            { "title": "Changelog", "url": "/#features" }
+          ]
+        },
+        {
+          "title": "COMPANY",
+          "children": [
+            { "title": "support@flowaivideo.lol", "url": "mailto:support@flowaivideo.lol" },
+            { "title": "Privacy Policy", "url": "/privacy-policy" },
+            { "title": "Terms of Service", "url": "/terms-of-service" },
+            { "title": "Refund Policy", "url": "/terms-of-service" },
+            { "title": "Contact Us", "url": "mailto:support@flowaivideo.lol" }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Email",
+          "icon": "Mail",
+          "url": "mailto:support@flowaivideo.lol",
+          "target": "_self"
+        }
+      ]
+    },
+    "copyright": "© 2025 • Flow AI Video - Professional Flow AI Video 4K AI Video Generator. All rights reserved.<br/>Flow AI Video is owned and operated by PixelForge LLC.<br/>Flow AI Video is independently operated and is not affiliated with Google.",
+    "agreement": {
+      "items": [
+        { "title": "Privacy Policy", "url": "/privacy-policy" },
+        { "title": "Terms of Service", "url": "/terms-of-service" },
+        { "title": "Refund Policy", "url": "/terms-of-service" },
+        { "title": "Contact Us", "url": "mailto:support@flowaivideo.lol" }
+      ]
+    },
+    "badges": {
+      "title": "Featured on",
+      "items": [
+        { "title": "发现AI", "url": "https://www.faxianai.com" },
+        { "title": "WebsiteHunt", "url": "https://www.websitehunt.co/" },
+        { "title": "AIStage", "url": "https://aistage.net" },
+        { "title": "AI138", "url": "https://www.ai138.com" },
+        { "title": "MossAI Tools", "url": "https://mossai.org" },
+        { "title": "ToolsFine", "url": "https://toolsfine.com" },
+        { "title": "AIToolly", "url": "https://AIToolly.com/" },
+        { "title": "meoai.net", "url": "https://www.meoai.net/" },
+        { "title": "RightAI Tools Diresctory", "url": "https://right-ai.com/" },
+        { "title": "AI TOOL", "url": "https://www.kdjingpai.com/" },
+        { "title": "AiTop10 Tools Diresctory", "url": "https://aitop10.tools/" },
+        { "title": "[see what new ai]", "url": "https://www.seewhatnewai.com" },
+        { "title": "AI Toolz Dir", "url": "https://www.aitoolzdir.com" },
+        { "title": "AI Image Describer", "url": "https://describepicture.cc/" },
+        { "title": "AiHeron", "url": "https://www.aiheron.com/" },
+        { "title": "tipseason.com", "url": "https://tipseason.com" },
+        { "title": "AI Product List", "url": "https://aiproductlist.org" },
+        { "title": "AI Tool Center", "url": "https://aitoolcenter.com/" },
+        { "title": "Fast Wan", "url": "https://fast-wan.com/" },
+        { "title": "Long Cat Image", "url": "https://www.longcatimage.app" },
+        { "title": "Z Image AI", "url": "https://www.z-image-ai.app" },
+        { "title": "GPT Image 2", "url": "https://www.gpt-image-2.app" },
+        { "title": "Seedream 5", "url": "https://www.seedream-5.app" },
+        { "title": "Gemini AI Photo Editor", "url": "https://www.geminiaiphotoeditor.app" },
+        { "title": "Nano Banana AI", "url": "https://www.nanobanana-ai.org" },
+        { "title": "Seedream 4 AI", "url": "https://www.seedream4ai.org" },
+        { "title": "Image Blender", "url": "https://www.imageblender.app" },
+        { "title": "Viesearch - The Human-curated Search Engine", "url": "https://viesearch.com/" },
+        { "title": "All in AI Tools", "url": "https://allinai.tools" },
+        { "title": "AI Dirs", "url": "https://aidirs.org" }
+      ]
+    },
+    "show_theme": false,
+    "show_locale": false,
+    "show_built_with": false
+  }
+}

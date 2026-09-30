@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "title": "Flow AI Video Generator Online Free",
+    "description": "Flow Video Generator delivers 4K cinematic quality with Google Flow Video motion synthesis, multi-shot storytelling, lightning-fast generation, and unparalleled realism. Create stunning Flow AI Video 4K from text or images with Flow AI Video Free Online trials. Flow Video Maker for professional video creation.",
+    "keywords": "Flow AI Video, Flow Video Generator, Google Flow Video, Flow Video Maker, Flow AI Video Free Online, Flow AI Video 4K, AI video generator, text to video, image to video, 4K video generation, AI video creation"
+  },
+  "page": {
+    "show_sections": [
+      "hero",
+      "studio",
+      "showcase",
+      "transformations",
+      "features",
+      "how_it_works",
+      "pricing",
+      "stats",
+      "faq",
+      "cta"
+    ],
+    "sections": {
+      "hero": {
+        "id": "hero",
+        "badge": "AI Video Generator",
+        "title": "Flow AI Video Generator Online",
+        "model_tag": "AI Video Models - Veo3 & Veo3.1",
+        "subtitle": "Powered by Flow AI Video",
+        "description": "Experience groundbreaking AI video generation technology with Flow AI Video. Transform text descriptions or images into stunning 4K videos with Google Flow Video motion synthesis, seamless transitions, and unparalleled realism. Create professional-quality Flow AI Video 4K in minutes with Flow Video Maker.",
+        "social_users": "from 100K+ creators • 99.5% success rate",
+        "button": "Try Flow AI Video Free Online"
+      },
+      "studio": {
+        "id": "studio",
+        "anchor_models": "models",
+        "label": "AI Video Generation",
+        "title": "Flow Video Generator - Professional AI Video Generator Studio",
+        "description": "Create stunning 4K videos using Flow AI Video. Transform text descriptions into cinematic videos or convert images to videos with Google Flow Video motion synthesis. Get professional-quality results with Flow Video Maker, Flow AI Video Free Online trials. Generate Flow AI Video 4K with Flow Video Generator tools.",
+        "tabs": [
+          "Text to Video",
+          "Image to Video",
+          "Reference to Video"
+        ],
+        "model_label": "AI Model",
+        "models": [
+          {
+            "label": "Seedance 2 Fast",
+            "description": "Fast Seedance generation"
+          },
+          {
+            "label": "Seedance 2",
+            "description": "Balanced Seedance generation"
+          },
+          {
+            "label": "Seedance 2.5",
+            "description": "Upgraded Seedance model for sharp short-form video"
+          },
+          {
+            "label": "Veo 3.1 Lite",
+            "description": "Lower credit cost"
+          },
+          {
+            "label": "Veo 3.1 Fast",
+            "description": "Single reference image supported"
+          },
+          {
+            "label": "Veo 3.1 Quality",
+            "description": "Highest quality"
+          },
+          {
+            "label": "Gemini Omni Flash",
+            "description": "Google's new fast video model for sharp, cinematic clips"
+          }
+        ],
+        "prompt_label": "Prompt",
+        "prompt_required": "Required",
+        "prompt_placeholder": "Describe the image you want to generate... e.g., 'A beautiful sunset over mountains with vibrant colors'",
+        "aspect_ratio_label": "Aspect Ratio",
+        "aspect_ratios": [
+          "16:9",
+          "9:16",
+          "Auto"
+        ],
+        "quality_label": "Video Quality",
+        "qualities": [
+          "720p HD",
+          "1080p Full HD"
+        ],
+        "duration_label": "Video Duration",
+        "durations": [
+          "4 seconds",
+          "6 seconds",
+          "8 seconds"
+        ],
+        "generate_button": "Generate Video",
+        "credits": "20",
+        "sample_title": "Sample Video",
+        "sample_desc": "The created video result will appear here",
+        "sample_tip": "Click video to view full size • Swipe or use arrows to see more",
+        "videos": [
+          "/video/home/seedance2-video1.mp4",
+          "/video/home/seedance2-video2.mp4",
+          "/video/home/seedance2-video3.mp4"
+        ]
+      },
+      "showcase": {
+        "id": "showcase",
+        "title": "Explore Video Creation with Flow AI Video",
+        "description": "Discover stunning AI-generated videos created with Flow AI Video. From photography to architecture, people to creative projects - see how Flow AI Video transforms ideas into cinematic Flow AI Video 4K with Flow Video Maker motion synthesis.",
+        "items": [
+          {
+            "poster": "/video/posters/1.png",
+            "video": "/video/what/example29.mp4"
+          },
+          {
+            "poster": "/video/posters/2.png",
+            "video": "/video/what/example30.mp4"
+          },
+          {
+            "poster": "/video/posters/3.png",
+            "video": "/video/what/example36.mp4"
+          },
+          {
+            "poster": "/video/posters/4.png",
+            "video": "/video/what/example29.mp4"
+          },
+          {
+            "poster": "/video/posters/5.png",
+            "video": "/video/what/example30.mp4"
+          },
+          {
+            "poster": "/video/posters/6.png",
+            "video": "/video/what/example36.mp4"
+          }
+        ]
+      },
+      "transformations": {
+        "id": "what-is-flow-ai-video",
+        "badge": "Real Flow AI Video Transformations",
+        "title": "What is Flow AI Video",
+        "description": "Discover how Flow AI Video converts text inputs or images into remarkable Flow AI Video 4K with Flow Video Generator motion synthesis. Flow Video provides enterprise video creation with multi-shot storytelling, seamless transitions, and unparalleled realism.",
+        "highlights": [
+          "Professional Flow AI Video",
+          "Lightning-fast video generation with Flow Video Maker",
+          "4K high-resolution output from Flow AI Video"
+        ],
+        "items": [
+          {
+            "title": "Native Multi-Shot Storytelling with Flow AI Video",
+            "label": "Multi-Shot Consistency",
+            "description": "Flow AI Video delivers breakthrough multi-shot storytelling capabilities that maintain consistency in characters, visual style, and atmosphere across scene transitions. Experience industry-leading motion consistency with Flow Video Generator.",
+            "video": "/video/what/example29.mp4",
+            "poster": "/video/posters/1.png"
+          },
+          {
+            "title": "Flow AI Video 4K HD Quality Video Generation",
+            "label": "Professional Output",
+            "description": "Generate stunning high-definition videos with Flow AI Video in native 4K resolution. Flow AI Video delivers smooth motion, rich details, and cinematic aesthetics perfect for professional production.",
+            "video": "/video/what/example30.mp4",
+            "poster": "/video/posters/2.png"
+          },
+          {
+            "title": "Text & Image to Video with Flow AI Video",
+            "label": "Multi-Modal Creation",
+            "description": "Create videos from text prompts or transform static images into dynamic video content with Flow AI Video. Flow Video supports both text-to-video and image-to-video generation with intelligent motion synthesis.",
+            "video": "/video/what/example36.mp4",
+            "poster": "/video/posters/3.png"
+          }
+        ],
+        "cta_title": "Ready to create with Flow AI Video?",
+        "cta_description": "Enter your text prompt or upload an image above to get started with Flow AI Video video generation"
+      },
+      "features": {
+        "id": "features",
+        "label": "Advanced Flow AI Video Technology",
+        "title": "Flow AI Video Powerful Features",
+        "description": "Flow AI Video delivers breakthrough capabilities in AI video generation.",
+        "items": [
+          {
+            "title": "Superior Semantic Understanding",
+            "description": "Advanced language parsing enables precise control over multi-agent interactions, complex action sequences, and diverse camera movements.",
+            "icon": "Brain"
+          },
+          {
+            "title": "Text & Image to Video",
+            "description": "Create videos from text prompts or transform static images into dynamic video content with intelligent motion.",
+            "icon": "Images"
+          },
+          {
+            "title": "Diverse Visual Styles",
+            "description": "From photorealism to anime, cyberpunk to watercolor - create in any aesthetic style with exceptional quality.",
+            "icon": "Palette"
+          },
+          {
+            "title": "4K HD Quality",
+            "description": "Generate stunning high-definition Flow AI Video 4K with smooth motion, rich details, and cinematic aesthetics.",
+            "icon": "MonitorPlay"
+          },
+          {
+            "title": "Native Multi-Shot Storytelling",
+            "description": "Generate cohesive narrative videos with multiple shots while maintaining consistency in characters, visual style, and atmosphere across scene transitions.",
+            "icon": "Clapperboard"
+          },
+          {
+            "title": "Ultra-Fast Processing",
+            "description": "Industry-leading generation speed without compromising quality. Bring your creative visions to life in moments.",
+            "icon": "Zap"
+          }
+        ]
+      },
+      "how_it_works": {
+        "id": "how-it-works",
+        "label": "SIMPLE STEPS",
+        "title": "How to Use Flow AI Video for AI Video Generation",
+        "description": "Follow these straightforward steps to generate, edit, and refine videos online with Flow AI Video's consistent and intuitive workflow powered by Flow Video Generator.",
+        "items": [
+          {
+            "title": "Step 1 Choose Flow Video Generator",
+            "description": "Begin by choosing the Flow Video Generator. The Flow Video offers text-to-video and image-to-video creation features to craft refined 4K cinematic videos with Flow Video Maker motion synthesis.",
+            "order": 1
+          },
+          {
+            "title": "Step 2 Upload Image or Enter Text Prompt",
+            "description": "Add an image to transform with Flow AI Video or write a text description for video creation. Flow AI Video supports both text-to-video and image-to-video methods, enabling you to create stunning Flow AI Video 4K with seamless transitions.",
+            "order": 2
+          },
+          {
+            "title": "Step 3 Generate and Download Flow AI Video",
+            "description": "Press generate and Flow AI Video creates your 4K cinematic masterpiece. Review the premium video output with Flow Video Generator motion synthesis and save immediately. Flow AI Video guarantees top-tier results consistently.",
+            "order": 3
+          },
+          {
+            "title": "Step 4 Refine and Perfect Your Creation",
+            "description": "Use Flow AI Video's advanced editing features to fine-tune details, adjust settings, and perfect your final video with professional-grade results.",
+            "order": 4
+          }
+        ]
+      },
+      "pricing": {
+        "id": "pricing",
+        "label": "Save 50%",
+        "title": "Simple, Transparent Pricing",
+        "description": "Select the ideal package to create stunning videos with Flow Video Generator",
+        "benefits": [
+          "Start with free credits",
+          "Cancel anytime",
+          "Secure payment"
+        ],
+        "notice": "Your local currency and applicable taxes are shown at checkout.",
+        "annual_badge": "Limited Time: Save 50% with Annual Billing",
+        "annual_badge_label": "Flash Sale 50%",
+        "groups": [
+          "Annually",
+          "Monthly",
+          "One Time"
+        ],
+        "cost_per_100_label": "Cost per 100 credits",
+        "cancel_support": "Cancel subscription, please contact the support email: support@flowaivideo.lol",
+        "yearly_only_label": "Yearly only",
+        "limited_offer_label": "Limited offer",
+        "cta_labels": {
+          "yearly": "Get Started",
+          "monthly": "Buy Now",
+          "oneTime": "Pay Now"
+        },
+        "plans": [
+          {
+            "title": "Basic",
+            "description": "Perfect for hobbyists and beginners",
+            "price": "$9.9",
+            "unit": "/month",
+            "features_title": "Everything you need to start:",
+            "features": [
+              "Flow AI Video Basic Yearly Plan",
+              "800 credits per month (9600 credits/year)",
+              "Up to 80 videos/month",
+              "Flow Video Generator",
+              "Unlimited Flow AI Video downloads",
+              "9600 Flow AI Video credits with annual billing",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "label": "",
+            "credits": "9600",
+            "cost_per_100": ""
+          },
+          {
+            "title": "Enterprise",
+            "description": "For teams and businesses",
+            "price": "$49.9",
+            "unit": "/month",
+            "features_title": "Everything in Professional, plus:",
+            "features": [
+              "Flow AI Video Enterprise Yearly Plan",
+              "6000 credits per month (72000 credits/year)",
+              "Up to 600 videos/month",
+              "Flow Video",
+              "Unlimited Flow AI Video downloads",
+              "72000 Flow AI Video credits with annual billing",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "label": "Most Popular",
+            "credits": "72000",
+            "cost_per_100": ""
+          },
+          {
+            "title": "Professional",
+            "description": "For creators and professionals",
+            "price": "$19.9",
+            "unit": "/month",
+            "features_title": "Everything in Basic, plus:",
+            "features": [
+              "Flow AI Video Pro Yearly Plan",
+              "2000 credits per month (24000 credits/year)",
+              "Up to 200 videos/month",
+              "Flow Video Maker",
+              "Unlimited Flow AI Video downloads",
+              "24000 Flow AI Video credits with annual billing",
+              "Permanent Flow AI Video history",
+              "Commercial Use License",
+              "Nano Banana model",
+              "Seedream model",
+              "AI image enhancer",
+              "AI image background remover",
+              "Support AI video generation",
+              "Veo 3 model",
+              "Sora 2 model",
+              "Seedance model",
+              "Wan 2.5 model",
+              "Priority generation queue",
+              "No Watermark",
+              "Priority customer support"
+            ],
+            "label": "",
+            "credits": "24000",
+            "cost_per_100": ""
+          }
+        ]
+      },
+      "stats": {
+        "id": "stats",
+        "label": "Stats",
+        "title": "Creators Rely on Flow AI Video",
+        "description": "for everyday video work—from quick mockups to campaign-ready assets.",
+        "items": [
+          {
+            "label": "DAILY CREATORS",
+            "title": "Growing",
+            "description": "Independent artists, marketers and founders using Flow AI Video in their workflows."
+          },
+          {
+            "label": "COUNTRIES",
+            "title": "Global",
+            "description": "Professionals across North America, Europe and Asia trust Flow AI Video every day."
+          },
+          {
+            "label": "USE CASES",
+            "title": "Flexible",
+            "description": "From video content and storytelling to ads, social media, marketing and more."
+          }
+        ]
+      },
+      "faq": {
+        "id": "faq",
+        "title": "FAQ About Flow AI Video",
+        "description": "Find solutions to frequently asked questions about Flow Video Generator - the premium AI video generator with 4K cinematic quality",
+        "items": [
+          {
+            "question": "Flow AI Video where to use?",
+            "answer": "Use Flow Video Generator across web, desktop, and mobile browsers. Flow Video supports marketing clips, social media posts, and product videos with Flow AI Video 4K output. Flow AI Video runs in the cloud, so you can access projects anywhere without local installs. Flow Video Maker works seamlessly across all platforms for Flow AI Video 4K creation."
+          },
+          {
+            "question": "How to use Flow AI Video?",
+            "answer": "Flow AI Video processes text inputs or images to create beautiful Flow AI Video 4K with Flow Video Generator motion synthesis. Write descriptions for text-to-video or upload images for image-to-video conversion using Flow AI Video Free Online. The Flow Video workflow is: enter prompt, pick style, generate, download. Flow AI Video 4K generation is simple and intuitive with Flow Video Maker tools."
+          },
+          {
+            "question": "Where can I access Flow AI Video?",
+            "answer": "Access Flow AI Video Free Online on the web at the Flow Video Generator. Flow Video works on major browsers; no download required. Sign in to start with Flow AI Video Free Online credits. Flow AI Video is accessible from any device with an internet connection for creating Flow AI Video 4K content."
+          },
+          {
+            "question": "What is Flow AI Video?",
+            "answer": "Flow AI Video is an enterprise AI video generator that creates stunning Flow AI Video 4K. The Flow Video Generator delivers 4K native resolution, Flow Video motion synthesis, and multi-shot storytelling. Flow AI Video emphasizes realistic motion, seamless transitions, and strong prompt adherence for professional creators. Flow AI Video and Flow AI Video 4K outputs are perfect for marketing, social media, and professional production."
+          },
+          {
+            "question": "What formats can I download videos from Flow AI Video?",
+            "answer": "Flow AI Video creates premium Flow AI Video 4K available for download in MP4 format. Flow AI Video results work well for both individual and business purposes, with enterprise-level quality ideal for marketing campaigns, social media, and professional video production."
+          },
+          {
+            "question": "Is there a limit to the number of videos I can generate with Flow AI Video?",
+            "answer": "Flow AI Video operates on a credit basis. Every Flow AI Video 4K creation requires credits based on duration and resolution. Free users receive credits initially with Flow AI Video Free Online, while subscription plans provide credits monthly. You can produce videos with Flow AI Video whenever you have credits remaining."
+          },
+          {
+            "question": "How long does it take Flow AI Video to generate a video?",
+            "answer": "Flow AI Video produces Flow AI Video 4K with lightning-fast generation, based on complexity. Flow Video Generator's optimized processing system guarantees ultra-rapid performance with Google Flow Video motion synthesis, achieving 99.5% success rate."
+          },
+          {
+            "question": "Why Use Flow AI Video?",
+            "answer": "Flow AI Video accelerates workflow by facilitating quick Flow AI Video 4K production without complex video production expertise. Flow Video Maker comprehends text inputs, transforms images into videos with Google Flow Video motion synthesis, and creates multi-shot narratives seamlessly. Ideal for marketing campaigns, social media content, product demonstrations, and creative storytelling."
+          },
+          {
+            "question": "Is there a mobile app for Flow AI Video?",
+            "answer": "At present, Flow AI Video Free Online is a browser-based AI video generator available on smartphone browsers. Flow AI Video's adaptive layout functions excellently on mobile phones. A standalone mobile application isn't ready yet, but smartphone browser usage is completely supported for every Flow AI Video function."
+          }
+        ],
+        "cta_title": "Ready to Experience Flow AI Video?",
+        "cta_description": "Join 100K+ creators who've created amazing Flow AI Video 4K with Flow AI Video Free Online trials",
+        "cta_button": "Start with Flow AI Video Today",
+        "stats": [
+          "AI Images Created",
+          "Happy Users",
+          "Seconds Generation Time"
+        ]
+      },
+      "cta": {
+        "id": "start",
+        "title": "Ready to Experience Flow AI Video?",
+        "description": "Join 100K+ creators who've created amazing Flow AI Video 4K with Flow AI Video Free Online trials",
+        "buttons": [
+          {
+            "title": "Start with Flow AI Video Today",
+            "url": "/pricing",
+            "variant": "default",
+            "icon": "ArrowRight"
+          }
+        ]
+      }
+    }
+  }
+}

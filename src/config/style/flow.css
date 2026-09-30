@@ -1,0 +1,787 @@
+/**
+ * Flow AI Video landing chrome.
+ *
+ * The palette comes from the reference site (`--background: hsl(40 6% 7%)`,
+ * amber primary), applied on top of the shared theme tokens so the template
+ * header, footer, pricing page and dialogs all inherit the same look. Only the
+ * sections the template has no block for (the generator studio, the sample
+ * video wall and the reference's media rows) need bespoke rules.
+ */
+
+:root {
+  --flow-gradient: linear-gradient(120deg, #6366f1 0%, #8b5cf6 48%, #ec4899 100%);
+  --flow-amber: hsl(38 92% 50%);
+  --flow-shell-max: 80rem;
+}
+
+.landing-shell {
+  /* The template header is fixed; the announcement strip sits right below it. */
+  padding-top: 4.5rem;
+}
+
+.flow-main {
+  overflow-x: hidden;
+}
+
+.flow-announcement {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem 0.75rem;
+  border-bottom: 1px solid color-mix(in oklab, var(--border) 70%, transparent);
+  background: color-mix(in oklab, var(--card) 85%, transparent);
+  padding: 0.55rem 1rem;
+  font-size: 0.85rem;
+  color: var(--muted-foreground);
+}
+
+.flow-announcement strong {
+  color: var(--foreground);
+  font-weight: 600;
+}
+
+.flow-announcement a {
+  color: var(--flow-amber);
+  font-weight: 600;
+}
+
+.flow-section {
+  padding: 3.5rem 0;
+}
+
+@media (min-width: 768px) {
+  .flow-section {
+    padding: 5rem 0;
+  }
+}
+
+.flow-container {
+  width: 100%;
+  max-width: var(--flow-shell-max);
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+  .flow-container {
+    padding: 0 2rem;
+  }
+}
+
+.flow-section-head {
+  margin: 0 auto 2rem;
+  max-width: 48rem;
+  text-align: center;
+}
+
+.flow-section-head h2 {
+  font-size: 1.85rem;
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+@media (min-width: 768px) {
+  .flow-section-head h2 {
+    font-size: 2.4rem;
+  }
+}
+
+.flow-section-head p {
+  margin-top: 0.85rem;
+  color: var(--muted-foreground);
+  font-size: 1rem;
+}
+
+.flow-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  background: color-mix(in oklab, var(--flow-amber) 14%, transparent);
+  color: var(--flow-amber);
+  padding: 0.3rem 0.85rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ---------------------------------------------------------------- hero */
+
+.flow-hero {
+  position: relative;
+  padding: 3rem 0 1rem;
+  background:
+    radial-gradient(
+      circle at 18% 12%,
+      color-mix(in oklab, #6366f1 22%, transparent) 0%,
+      transparent 45%
+    ),
+    radial-gradient(
+      circle at 82% 8%,
+      color-mix(in oklab, #ec4899 18%, transparent) 0%,
+      transparent 42%
+    );
+}
+
+.flow-hero-inner {
+  text-align: center;
+}
+
+.flow-hero h1 {
+  margin-top: 1rem;
+  font-size: 2.1rem;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+@media (min-width: 768px) {
+  .flow-hero h1 {
+    font-size: 3.1rem;
+  }
+}
+
+.flow-hero .flow-model-tag {
+  margin-top: 0.75rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #facc15;
+  line-height: 1.2;
+}
+
+@media (min-width: 768px) {
+  .flow-hero .flow-model-tag {
+    font-size: 2.4rem;
+  }
+}
+
+.flow-hero .flow-subtitle {
+  margin-top: 0.85rem;
+  color: var(--muted-foreground);
+}
+
+.flow-social {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--muted-foreground);
+}
+
+/* -------------------------------------------------------------- studio */
+
+.flow-studio {
+  display: grid;
+  gap: 1rem;
+  margin-top: 2rem;
+  text-align: left;
+}
+
+@media (min-width: 1024px) {
+  .flow-studio {
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    align-items: start;
+  }
+}
+
+.flow-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: color-mix(in oklab, var(--card) 92%, transparent);
+  padding: 1rem;
+  box-shadow: 0 24px 60px -40px rgba(0, 0, 0, 0.9);
+}
+
+.flow-tabs {
+  display: flex;
+  gap: 0.35rem;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.65rem;
+}
+
+.flow-tabs button {
+  border-radius: 999px;
+  border: 1px solid transparent;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  color: var(--muted-foreground);
+  background: transparent;
+}
+
+.flow-tabs button[data-active='true'] {
+  background: color-mix(in oklab, var(--flow-amber) 18%, transparent);
+  border-color: color-mix(in oklab, var(--flow-amber) 45%, transparent);
+  color: var(--foreground);
+  font-weight: 600;
+}
+
+.flow-field {
+  margin-top: 1rem;
+}
+
+.flow-field > label,
+.flow-field-label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.45rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+.flow-field-label .flow-required {
+  border-radius: 999px;
+  background: color-mix(in oklab, var(--flow-amber) 18%, transparent);
+  color: var(--flow-amber);
+  padding: 0.1rem 0.4rem;
+  font-size: 0.68rem;
+  font-weight: 600;
+}
+
+.flow-counter {
+  margin-left: auto;
+  font-weight: 400;
+  color: var(--muted-foreground);
+}
+
+.flow-studio textarea {
+  width: 100%;
+  min-height: 7.5rem;
+  resize: vertical;
+  border-radius: calc(var(--radius) - 4px);
+  border: 1px solid var(--border);
+  background: var(--background);
+  color: var(--foreground);
+  padding: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.flow-studio select {
+  width: 100%;
+  border-radius: calc(var(--radius) - 4px);
+  border: 1px solid var(--border);
+  background: var(--background);
+  color: var(--foreground);
+  padding: 0.6rem 0.7rem;
+  font-size: 0.9rem;
+}
+
+.flow-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.flow-options button {
+  border-radius: calc(var(--radius) - 6px);
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--muted-foreground);
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+}
+
+.flow-options button[data-active='true'] {
+  border-color: var(--flow-amber);
+  color: var(--foreground);
+  background: color-mix(in oklab, var(--flow-amber) 12%, transparent);
+}
+
+.flow-generate {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+  border-radius: calc(var(--radius) - 4px);
+  background: var(--flow-gradient);
+  color: #fff;
+  padding: 0.85rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  box-shadow: 0 18px 40px -24px rgba(99, 102, 241, 0.9);
+  transition: filter 0.15s ease;
+}
+
+.flow-generate:hover:not(:disabled) {
+  filter: brightness(1.08);
+}
+
+.flow-generate:disabled {
+  opacity: 0.75;
+  cursor: progress;
+}
+
+.flow-credits-badge {
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.1rem 0.45rem;
+  font-size: 0.78rem;
+}
+
+.flow-queue {
+  margin-top: 1rem;
+  border-radius: calc(var(--radius) - 4px);
+  border: 1px solid color-mix(in oklab, var(--flow-amber) 40%, transparent);
+  background: color-mix(in oklab, var(--flow-amber) 10%, transparent);
+  padding: 0.85rem;
+  font-size: 0.85rem;
+}
+
+.flow-queue strong {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.9rem;
+}
+
+.flow-queue-bar {
+  position: relative;
+  height: 0.4rem;
+  margin: 0.6rem 0 0.4rem;
+  overflow: hidden;
+  border-radius: 999px;
+  background: color-mix(in oklab, var(--foreground) 12%, transparent);
+}
+
+.flow-queue-bar span {
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-radius: 999px;
+  background: var(--flow-gradient);
+  transition: width 0.6s ease;
+}
+
+.flow-sample {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.flow-sample-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: calc(var(--radius) - 2px);
+  border: 1px solid var(--border);
+  background: #000;
+}
+
+.flow-sample-frame video {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.flow-sample-empty {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  background: color-mix(in oklab, var(--card) 80%, #000);
+  text-align: center;
+  color: var(--muted-foreground);
+  font-size: 0.85rem;
+}
+
+.flow-sample-tip {
+  color: var(--muted-foreground);
+  font-size: 0.78rem;
+  text-align: center;
+}
+
+/* ------------------------------------------------------------ showcase */
+
+.flow-video-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .flow-video-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.flow-video-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--card);
+  aspect-ratio: 9 / 16;
+}
+
+@media (min-width: 768px) {
+  .flow-video-card {
+    aspect-ratio: 3 / 4;
+  }
+}
+
+.flow-video-card img,
+.flow-video-card video {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.flow-video-card:hover img,
+.flow-video-card:hover video {
+  transform: scale(1.04);
+}
+
+.flow-media-row {
+  display: grid;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+}
+
+@media (min-width: 900px) {
+  .flow-media-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 3rem;
+  }
+
+  .flow-media-row[data-flip='true'] .flow-media-visual {
+    order: 2;
+  }
+}
+
+.flow-media-visual {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: #000;
+  aspect-ratio: 16 / 10;
+}
+
+.flow-media-visual video {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.flow-media-copy h3 {
+  margin: 0.5rem 0 0.75rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.flow-media-copy p {
+  color: var(--muted-foreground);
+}
+
+.flow-highlight-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.flow-highlight-list span {
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 80%, transparent);
+  padding: 0.3rem 0.7rem;
+  font-size: 0.8rem;
+  color: var(--muted-foreground);
+}
+
+.flow-transformation-cta {
+  margin-top: 2rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 85%, transparent);
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.flow-transformation-cta h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.flow-transformation-cta p {
+  margin-top: 0.4rem;
+  color: var(--muted-foreground);
+}
+
+/* ----------------------------------------------------------- pricing row */
+
+.flow-plan-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 900px) {
+  .flow-plan-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.flow-plan {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 92%, transparent);
+  padding: 1.5rem;
+}
+
+.flow-plan[data-featured='true'] {
+  border-color: color-mix(in oklab, var(--flow-amber) 55%, transparent);
+  box-shadow: 0 30px 70px -50px color-mix(in oklab, var(--flow-amber) 80%, transparent);
+}
+
+.flow-plan-price {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
+}
+
+.flow-plan-price strong {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.flow-plan-price span {
+  color: var(--muted-foreground);
+  font-size: 0.9rem;
+}
+
+.flow-plan ul {
+  display: grid;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--muted-foreground);
+}
+
+.flow-plan li {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.flow-plan li svg {
+  margin-top: 0.15rem;
+  height: 1rem;
+  width: 1rem;
+  flex: none;
+  color: var(--flow-amber);
+}
+
+.flow-plan-cta {
+  margin-top: auto;
+  border-radius: calc(var(--radius) - 4px);
+  border: 1px solid var(--border);
+  background: transparent;
+  padding: 0.7rem 1rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.flow-plan[data-featured='true'] .flow-plan-cta {
+  border-color: transparent;
+  background: var(--flow-gradient);
+  color: #fff;
+}
+
+.flow-benefits {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 1.5rem;
+  margin-top: 1.25rem;
+  color: var(--muted-foreground);
+  font-size: 0.85rem;
+}
+
+.flow-benefits span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.flow-benefits svg {
+  height: 1rem;
+  width: 1rem;
+  color: var(--flow-amber);
+}
+
+.flow-notice {
+  margin-top: 1rem;
+  text-align: center;
+  color: var(--muted-foreground);
+  font-size: 0.78rem;
+}
+
+/* --------------------------------------------------------------- stats */
+
+.flow-stat-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .flow-stat-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.flow-stat {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 88%, transparent);
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.flow-stat small {
+  display: block;
+  color: var(--flow-amber);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+}
+
+.flow-stat strong {
+  display: block;
+  margin: 0.5rem 0;
+  font-size: 1.75rem;
+}
+
+.flow-stat p {
+  color: var(--muted-foreground);
+  font-size: 0.88rem;
+}
+
+.flow-faq-cta {
+  margin-top: 2rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: color-mix(in oklab, var(--card) 88%, transparent);
+  padding: 1.75rem;
+  text-align: center;
+}
+
+.flow-faq-cta h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.flow-faq-cta p {
+  margin-top: 0.5rem;
+  color: var(--muted-foreground);
+}
+
+.flow-faq-stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem 2.5rem;
+  margin: 1.5rem 0;
+}
+
+.flow-faq-stats div {
+  text-align: center;
+}
+
+.flow-faq-stats strong {
+  display: block;
+  font-size: 1.35rem;
+}
+
+.flow-faq-stats span {
+  color: var(--muted-foreground);
+  font-size: 0.8rem;
+}
+
+/* --------------------------------------------------------------- chrome */
+
+/* The template header/footer keep their structure; these tweaks line their
+   chrome up with the reference (amber accent chips, soft dividers). */
+.landing-shell header[data-scrolled] > div > div {
+  border-color: color-mix(in oklab, var(--border) 70%, transparent);
+}
+
+.landing-shell footer {
+  border-top: 1px solid color-mix(in oklab, var(--border) 60%, transparent);
+  background: color-mix(in oklab, var(--card) 55%, transparent);
+}
+
+.flow-footer-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.5rem;
+}
+
+.flow-footer-badges a {
+  border-radius: 999px;
+  border: 1px solid color-mix(in oklab, var(--border) 80%, transparent);
+  padding: 0.2rem 0.6rem;
+  font-size: 0.72rem;
+  color: var(--muted-foreground);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.flow-footer-badges a:hover {
+  color: var(--foreground);
+  border-color: var(--flow-amber);
+}
+
+.flow-legal {
+  padding: 3rem 0 4rem;
+}
+
+.flow-legal h1 {
+  font-size: 2.1rem;
+  font-weight: 700;
+}
+
+.flow-legal h2 {
+  margin: 2rem 0 0.75rem;
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+.flow-legal h3 {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.flow-legal p,
+.flow-legal li {
+  color: var(--muted-foreground);
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.flow-legal ul,
+.flow-legal ol {
+  margin: 0.75rem 0 0.75rem 1.25rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.flow-legal ul {
+  list-style: disc;
+}
+
+.flow-legal ol {
+  list-style: decimal;
+}
+
+.flow-legal a {
+  color: var(--flow-amber);
+}

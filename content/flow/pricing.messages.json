@@ -1,0 +1,1705 @@
+{
+  "metadata": {
+    "title": "Flow AI Video Generator Online Free",
+    "description": "Flow Video Generator delivers 4K cinematic quality with Google Flow Video motion synthesis, multi-shot storytelling, lightning-fast generation, and unparalleled realism. Create stunning Flow AI Video 4K from text or images with Flow AI Video Free Online trials. Flow Video Maker for professional video creation.",
+    "keywords": "Flow AI Video, Flow Video Generator, Google Flow Video, Flow Video Maker, Flow AI Video Free Online, Flow AI Video 4K, AI video generator, text to video, image to video, 4K video generation, AI video creation"
+  },
+  "mobile_starter_pricing_modal": {
+    "eyebrow": "Starter plan",
+    "title": "Keep creating without the wait",
+    "description": "Get more room every month to turn your ideas into AI videos.",
+    "choose_title": "Keep creating",
+    "choose_description": "Choose how you want to pay",
+    "purchase_type": "Purchase type",
+    "subscription_option": "Subscription",
+    "choose_plan": "Choose a plan",
+    "plan_selector_label": "Choose a Starter plan",
+    "monthly_option": "Monthly",
+    "monthly_plan_name": "Starter Monthly",
+    "best_value": "Best value",
+    "monthly_usage": "800 credits · ~40 videos",
+    "cancel_anytime": "Cancel anytime",
+    "one_time_option": "One-time",
+    "one_time_plan_name": "Starter Pack",
+    "one_time_usage": "1000 credits · ~50 videos",
+    "never_expires": "Never expires",
+    "once": "once",
+    "continue_monthly": "[ Continue with Monthly ]",
+    "continue_one_time": "[ Continue with One-time ]",
+    "view_more_plans": "View Pro and Business plans",
+    "back": "Back to plans",
+    "payment_title": "Choose payment method",
+    "payment_description": "Complete your purchase securely",
+    "selected_plan": "Selected plan",
+    "pay_by_card": "[ Pay by Card ]",
+    "pay_paypal": "[ PayPal ]",
+    "paypal_loading": "Loading PayPal…",
+    "paypal_redirecting": "Opening PayPal…",
+    "paypal_powered_by": "Securely processed by PayPal",
+    "login_to_continue": "Log in to continue",
+    "secure_subscription": "Secure payment · Cancel anytime",
+    "secure_one_time": "Secure payment · Credits never expire",
+    "billing_period": "Billing period",
+    "billing_monthly": "Monthly",
+    "billing_yearly": "Yearly",
+    "yearly_badge": "Most popular",
+    "plan_name_monthly": "Starter Monthly",
+    "plan_name_yearly": "Starter Yearly",
+    "recommended": "Recommended",
+    "renews_monthly": "Renews monthly",
+    "renews_yearly": "Renews yearly",
+    "per_month": "/month",
+    "charged_monthly": "{amount} charged monthly",
+    "charged_yearly": "{amount} charged yearly",
+    "charged_once": "{amount} charged once",
+    "credits_label": "Available credits",
+    "video_capacity_label": "Video capacity",
+    "video_capacity_fallback": "Create more videos",
+    "included_title": "What's included",
+    "processing": "Opening secure checkout...",
+    "secure_checkout": "Secure checkout",
+    "other_payment_methods": "Other payment methods",
+    "view_all_plans": "View all plans",
+    "checkout_failed": "Checkout failed. Please try again."
+  },
+  "user": {
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out",
+    "credits": "Credits",
+    "per_month_short": "/month",
+    "per_year_short": "/year",
+    "clink_opening": "Opening Clink…",
+    "clink_pay": "Pay with Clink",
+    "clink_error": "Clink checkout could not be started",
+    "api_keys": "API Keys",
+    "my_orders": "My Orders",
+    "user_center": "User Center",
+    "admin_system": "Admin System"
+  },
+  "header": {
+    "home": "Home",
+    "flow_studio": "Flow Studio",
+    "flow_studio_description": "Create AI videos in one focused workspace",
+    "template": "Template",
+    "my_creations": "My Creations",
+    "credits_remaining": "{count} Credits",
+    "add_credits": "Add Credits",
+    "showcase": "Showcase",
+    "ai_video": "AI Video",
+    "ai_image": "AI Image",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "ai_features": "AI Features",
+    "ai_models": "AI Models",
+    "ai_features_menu_description": "Explore AI video and image creation tools",
+    "ai_models_menu_description": "Create with our latest video and image models",
+    "video_tools": "AI video features",
+    "image_tools": "AI image features",
+    "video_models": "Video models",
+    "image_models": "Image models",
+    "ai_video_menu_description": "Create videos with AI tools and leading models",
+    "ai_image_menu_description": "Generate and edit images in one creative workspace",
+    "popular_tools": "Creation tools",
+    "popular_models": "AI models",
+    "explore_tools": "Explore",
+    "text_to_video": "Text to Video",
+    "text_to_video_description": "Turn written ideas into cinematic video",
+    "image_to_video": "Image to Video",
+    "image_to_video_description": "Bring a still image to life with motion",
+    "reference_to_video": "Reference to Video",
+    "reference_to_video_description": "Guide video creation with visual references",
+    "ai_lip_sync": "AI Lip Sync",
+    "ai_lip_sync_description": "Match natural lip movement to your audio",
+    "video_model_description": "Create polished video with a leading AI model",
+    "text_to_image": "Text to Image",
+    "text_to_image_description": "Generate original images from a prompt",
+    "ai_photo_editor": "AI Photo Editor",
+    "ai_photo_editor_description": "Edit and transform photos with simple prompts",
+    "image_model_description": "Generate detailed images with a leading AI model",
+    "free_credits": "Free Credits",
+    "free_credits_tooltip_title": "Get free Credits",
+    "free_credits_tooltip_desc": "Sign in to claim {count} free Credits and try Flow AI Video now.",
+    "get_more_credits_title": "Get more credits",
+    "get_more_credits_desc": "Go to Pricing to add more credits",
+    "claim_now": "Claim Now"
+  },
+  "banner": {
+    "new_user_title": "New users get free Credits upon registration",
+    "annual_sale_50": "Annual Sale! Get 50% off",
+    "claim_now": "Claim Now",
+    "get_more_credits": "Get more credits",
+    "get_50_off_annual": "Get 50% OFF on Annual Plans",
+    "claim_50_off": "Claim 50% Off",
+    "limited_offer": "Limited Offer",
+    "spots_left": "{count} spots left",
+    "launch_special": "Launch Special! Seedance 2.5 is Live.",
+    "seed_imagine_promo_title": "Flow AI Video is now available on Seed Imagine",
+    "seed_imagine_promo_description": "Create with Veo 3.1, Seedance 2.5, and more—all in one workspace.",
+    "seed_imagine_promo_cta": "Try it free →",
+    "get_50_off_now": "Get 50% OFF Now!"
+  },
+  "sign_modal": {
+    "sign_in_title": "Sign In",
+    "sign_in_description": "Sign in to your account",
+    "bonus_banner": "Sign in now and get free Credits!",
+    "sign_up_title": "Sign Up",
+    "sign_up_description": "Create an account",
+    "email_title": "Email",
+    "email_placeholder": "Input your email here",
+    "password_title": "Password",
+    "password_placeholder": "Input your password here",
+    "forgot_password": "Forgot password?",
+    "or": "Or",
+    "or_continue_with": "OR CONTINUE WITH",
+    "sign_in_with_methods": "Sign in with the following methods",
+    "continue": "Continue",
+    "no_account": "Don't have an account?",
+    "email_sign_in": "Sign in with Email",
+    "email_link_button": "Send verification link",
+    "email_sending": "Sending link...",
+    "email_sent_message": "Check your inbox for the confirmation link.",
+    "email_send_error": "Failed to send the verification link. Please try again.",
+    "google_sign_in": "Sign in with Google",
+    "github_sign_in": "Sign in with GitHub",
+    "close_title": "Close",
+    "cancel_title": "Cancel",
+    "confirm_title": "Confirm Login",
+    "confirm_description": "Click confirm to finish signing in with your email link.",
+    "confirm_button": "Confirm Login",
+    "confirm_error": "Verification failed. The link might have expired.",
+    "confirm_processing": "Processing...",
+    "features_title": "Why join Flow AI Video?",
+    "feature_ai_tools": "Pro AI editing tools",
+    "feature_quality": "4K/HD outputs",
+    "feature_speed": "2-5s fast renders",
+    "feature_secure": "Secure login, no card required",
+    "feature_download": "Instant downloads",
+    "feature_updates": "New models weekly",
+    "disclaimer": "By continuing, you agree to our",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "signing_in": "Signing in..."
+  },
+  "new_user_gift_modal": {
+    "badge": "Limited-time offer",
+    "title": "New user gift!",
+    "subtitle": "Sign up now and claim free credits",
+    "reward": "Free starter credits",
+    "body": "New users receive free trial credits instantly. No credit card required. Start creating cinematic AI videos right away.",
+    "benefit_speed": "Fast generation",
+    "benefit_quality": "Cinematic video quality",
+    "benefit_no_payment": "No payment required",
+    "dont_remind": "Don't remind me again",
+    "later": "Maybe later"
+  },
+  "login_upgrade_offer": {
+    "badge": "Limited-time upgrade offer",
+    "title": "Limited time: 50% off annual plans",
+    "subtitle": "Upgrade now to unlock premium video creation for less.",
+    "current_balance": "Current balance",
+    "credits": "credits",
+    "offer_line": "Save 50% when you choose annual",
+    "body": "Do not let a good prompt stop here. Get premium video models, faster queues, HD exports, and enough credits for real projects.",
+    "benefit_models": "Premium video models",
+    "benefit_priority": "Priority generation",
+    "benefit_exports": "HD exports and downloads",
+    "benefit_creations": "More creations, fewer limits",
+    "cta": "Claim 50% off now",
+    "later": "Maybe later"
+  },
+  "hero": {
+    "title": "Flow AI Video Generator Online",
+    "subtitle": "Powered by Flow AI Video",
+    "model_tag": "AI Video Models - Veo3 & Veo3.1",
+    "model_version": "Model Version",
+    "ai_model_label": "AI Model",
+    "ai_model_gemini_omni": "Gemini Omni",
+    "ai_model_veo31": "Veo 3.1",
+    "ai_model_seedance2": "Seedance 2.0",
+    "ai_model_seedance25": "Seedance 2.5",
+    "model_lite": "Lite",
+    "model_lite_desc": "Fast generation, suitable for quick previews",
+    "model_fast": "Fast",
+    "model_fast_desc": "Balanced speed and quality",
+    "model_quality": "Quality",
+    "model_quality_desc": "Best quality, slower generation",
+    "video_model_options": {
+      "seedance_2_fast": {
+        "label": "Seedance 2 Fast",
+        "description": "Fast Seedance generation"
+      },
+      "seedance_2": {
+        "label": "Seedance 2",
+        "description": "Balanced Seedance generation"
+      },
+      "seedance_2_5": {
+        "label": "Seedance 2.5",
+        "description": "Upgraded Seedance model for sharp short-form video"
+      },
+      "veo3_lite": {
+        "label": "Veo 3.1 Lite",
+        "description": "Lower credit cost"
+      },
+      "veo3_fast": {
+        "label": "Veo 3.1 Fast",
+        "description": "Single reference image supported"
+      },
+      "veo3": {
+        "label": "Veo 3.1 Quality",
+        "description": "Highest quality"
+      },
+      "gemini_omni_flash": {
+        "label": "Gemini Omni Flash",
+        "description": "Google's new fast video model for sharp, cinematic clips"
+      }
+    },
+    "description": "Experience groundbreaking AI video generation technology with Flow AI Video. Transform text descriptions or images into stunning 4K videos with Google Flow Video motion synthesis, seamless transitions, and unparalleled realism. Create professional-quality Flow AI Video 4K in minutes with Flow Video Maker.",
+    "button": "Try Flow AI Video Free Online",
+    "ai_badge": "Flow AI Video Generated",
+    "badge": "AI Video Generator",
+    "social_users": "from 100K+ creators • 99.5% success rate",
+    "banner": "🎉 Sign in to get 2 free credits! Experience Flow AI Video - the next-generation AI video generation model!"
+  },
+  "upload": {
+    "title": "Flow Video Generator - Professional AI Video Generator Studio",
+    "description": "Create stunning 4K videos using Flow AI Video. Transform text descriptions into cinematic videos or convert images to videos with Google Flow Video motion synthesis. Get professional-quality results with Flow Video Maker, Flow AI Video Free Online trials. Generate Flow AI Video 4K with Flow Video Generator tools.",
+    "change": "Click to change prompt",
+    "prompt": "Enter your text prompt here",
+    "formats": "Generate: MP4 videos up to 4K resolution with Flow AI Video",
+    "style_label": "Image Style",
+    "style_placeholder": "Choose style...",
+    "elements_label": "Additional Details (Optional)",
+    "elements_placeholder": "e.g., artistic style, lighting, mood, colors...",
+    "generating": "Flow AI Video Generating...",
+    "generate_button": "Generate with Flow Video Generator",
+    "result_title": "Your Flow AI Video Generated Video",
+    "ai_complete": "Flow AI Video Generated",
+    "download": "Download Image",
+    "placeholder_title": "Your Flow AI Video Generated Video",
+    "placeholder_text": "Enter your text prompt or upload an image to see your Flow AI Video-generated video here",
+    "sample_title": "Sample Video",
+    "sample_desc": "The created video result will appear here",
+    "sample_tip": "Click video to view full size • Swipe or use arrows to see more",
+    "error_selection": "Please enter a text prompt and select image style",
+    "prompt_label": "Prompt",
+    "prompt_required_label": "Required",
+    "prompt_placeholder": "Describe the image you want to generate... e.g., 'A beautiful sunset over mountains with vibrant colors'",
+    "smart_expansion": "Smart Expansion",
+    "number_of_images_label": "Number of Images",
+    "seed_label": "Seed",
+    "seed_placeholder": "-1",
+    "image_style_label": "Image Style",
+    "image_style_placeholder": "Choose style...",
+    "additional_details_label": "Additional Details (Optional)",
+    "additional_details_placeholder": "e.g., artistic style, lighting, mood, colors...",
+    "generate_with_gempix": "Generate with Flow Video Generator",
+    "generate_with_ai_editor": "Generate Video",
+    "reference_optional": "Optional",
+    "choose_audio": "Upload audio",
+    "audio_optional_label": "Optional audio reference",
+    "compact_reference_formats": "PNG, JPG, WEBP. Optional reference image.",
+    "generating_text": "Generating...",
+    "credits_per_gen": "{count} Credits",
+    "tab_edit": "Image to Video",
+    "tab_reference": "Reference to Video",
+    "tab_t2i": "Text to Video",
+    "tab_avatar": "AI Lip Sync",
+    "avatar": {
+      "badge": "Audio-driven talking avatar",
+      "title": "Create a Lip-Synced AI Avatar",
+      "description": "Upload one portrait and one audio file to create a natural talking avatar video.",
+      "resolution": {
+        "label": "Resolution",
+        "standard": "Standard",
+        "pro": "Pro",
+        "standard_hint": "Faster with lower credit usage",
+        "pro_hint": "1080p · 48fps with higher visual quality"
+      },
+      "remove": "Remove",
+      "image": {
+        "label": "Avatar image",
+        "alt": "Avatar image preview",
+        "choose": "Upload an avatar image",
+        "hint": "JPG or PNG, up to 10MB"
+      },
+      "audio": {
+        "label": "Driving audio",
+        "choose": "Upload audio",
+        "hint": "MP3, WAV, M4A, AAC or OGG, up to 15 seconds",
+        "duration": "{duration}s / {max}s"
+      },
+      "duration_resolution": "{duration}s · {resolution}",
+      "prompt": {
+        "label": "Expression and motion",
+        "placeholder": "Example: Friendly expression, natural eye contact and subtle head movement",
+        "hint": "Use a short instruction to guide expression and movement."
+      },
+      "generate": "Generate AI Avatar",
+      "generating": "Creating your avatar...",
+      "progress": "Your avatar is being generated. You can keep this page open.",
+      "try_again": "Try again",
+      "result": "Your AI Avatar Video",
+      "download": "Download Video",
+      "downloading": "Downloading...",
+      "create_another": "Create another",
+      "preview": {
+        "title": "Your avatar video will appear here",
+        "description": "A clear portrait and clean speech audio produce the most natural lip sync.",
+        "processing_title": "Creating your AI avatar",
+        "processing_description": "Kling is matching facial movement to your audio. Longer audio can take more time."
+      },
+      "errors": {
+        "image_type": "Please upload a JPG or PNG image.",
+        "image_size": "The image cannot exceed 10MB.",
+        "image_read": "We could not read this image. Please choose another file.",
+        "audio_type": "Please upload an MP3, WAV, M4A, AAC or OGG audio file.",
+        "audio_size": "The audio file cannot exceed 15MB.",
+        "audio_duration": "The audio cannot be longer than 15 seconds.",
+        "audio_read": "We could not read this audio file. Please choose another file.",
+        "image_required": "Please upload an avatar image.",
+        "audio_required": "Please upload the driving audio.",
+        "prompt_required": "Please describe the expression and motion.",
+        "prompt_length": "The prompt cannot exceed 5,000 characters.",
+        "credit_rule": "The credit rule is temporarily unavailable. Please try again later.",
+        "generation_failed": "Avatar generation failed. Any deducted credits have been returned.",
+        "timeout": "Generation is taking longer than expected. Check My Videos for the latest status."
+      }
+    },
+    "t2i_coming": "Text-to-Image is coming soon. Stay tuned!",
+    "tips_title": "Tips for better results:",
+    "tips_specific": "Be specific about colors, lighting, and style",
+    "tips_composition": "Include details about composition and mood",
+    "tips_art_styles": "Mention art styles like \"photorealistic\", \"anime\", \"oil painting\"",
+    "tips_quality": "Add quality keywords like \"high resolution\", \"detailed\"",
+    "generated_image_title": "Generated Image",
+    "generated_video_title": "Generated Video",
+    "enter_prompt_error": "Please enter a prompt",
+    "image_to_video_prompt_required": "Please enter a prompt to describe how the image should move.",
+    "reference_to_video_prompt_required": "Please enter a prompt to describe how the reference images should guide the video.",
+    "upload_image_required": "Please upload an image",
+    "reference_image_required": "Please upload 1 to 3 reference images.",
+    "login_required": "Please login to generate images",
+    "progress_start": "AI is analyzing your request...",
+    "progress_analyzing": "Analyzing your prompt and settings...",
+    "progress_15s": "15 seconds left to complete...",
+    "progress_40s": "40 seconds left to complete...",
+    "progress_creating": "AI is creating your image...",
+    "progress_almost": "Almost done, please wait...",
+    "generating_magic": "Adding final AI magic touches...",
+    "progress_complete": "Generation complete!",
+    "skip_queue_hint": "Want it faster? Accelerate and skip the wait.",
+    "skip_queue_cta": "Skip the line now",
+    "download_video": "Download Video",
+    "download_video_in_progress": "Downloading video...",
+    "uploading_images": "Uploading images...",
+    "preview_processing_title": "AI is editing your image...",
+    "preview_processing_desc": "Please wait patiently, editing in progress...",
+    "preview_processing_tip": "Lightning-fast generation in progress",
+    "upload_image_label": "Upload Image",
+    "reference_upload_label": "Reference Images",
+    "upload_image_click_text": "Click to upload image or drag image here",
+    "reference_upload_click_text": "Click to upload reference images or drag them here",
+    "upload_image_formats": "Supports JPG, PNG, WEBP formats, max 20MB",
+    "reference_upload_formats": "JPG, PNG, WEBP. Up to 3 reference images, max 20MB each.",
+    "upload_image_alt": "Uploaded Image Preview",
+    "remove_image": "Remove Image",
+    "image_uploaded": "Uploaded: {filename}",
+    "aspect_ratio_label": "Aspect Ratio",
+    "aspect_ratio": {
+      "auto": "Auto",
+      "1_1": "1:1",
+      "2_3": "2:3",
+      "3_2": "3:2",
+      "3_4": "3:4",
+      "4_3": "4:3",
+      "4_5": "4:5",
+      "5_4": "5:4",
+      "9_16": "9:16",
+      "16_9": "16:9",
+      "21_9": "21:9"
+    },
+    "download_preparing": "Preparing download...",
+    "download_in_progress": "Downloading...",
+    "download_started": "Download started",
+    "download_success": "Download completed",
+    "download_failed": "Download failed",
+    "enhance_image": "Enhance Image",
+    "image_to_video": "Image to Video",
+    "edit_again": "Edit Again",
+    "image_loading_message": "Image is loading, please wait and do not leave this page.",
+    "max_images": "You can upload up to 8 images",
+    "add_image_progress": "Add Image {count}/{max}",
+    "generation_success": "Image generated successfully!",
+    "create_another_video": "Create another video",
+    "result_upgrade_hint": "Download your video and keep creating without waiting.",
+    "result_upgrade_cta": "Upgrade",
+    "seed_imagine_compare_result": "Want to compare this result with Seedance or Kling? Try more models on Seed Imagine →",
+    "seed_imagine_continue_free_credits": "Continue creating with free credits on Seed Imagine →",
+    "free_credits_used_upgrade": "You’ve used your free video credits. Upgrade to keep creating without waiting.",
+    "generation_failed": "Image generation failed",
+    "generation_failed_retry": "Image generation failed, please try again",
+    "video_generation_failed_title": "Video generation failed",
+    "video_generation_failed_retry": "Video generation failed. Please try again.",
+    "video_generation_temporarily_failed": "The video service is temporarily busy. Your credits have been returned. Please try again.",
+    "video_generation_retry_button": "Try again",
+    "video_open_fallback": "Open video in a new tab",
+    "generation_failed_insufficient_credits": "Insufficient credits. Please upgrade to continue generating.",
+    "generation_timeout": "Generation timed out, please try again later",
+    "file_type_error": "Please select an image file",
+    "file_size_error": "Image file size cannot exceed 20MB",
+    "upload_success": "Image uploaded successfully!",
+    "unknown_filename": "Unknown",
+    "api_errors": {
+      "prompt_required": "Prompt is required for image generation",
+      "image_required": "Image upload is required",
+      "invalid_data_url": "Invalid image data format",
+      "fetch_image_failed": "Failed to fetch image",
+      "no_image_generated": "No image generated",
+      "invalid_response": "Invalid response structure",
+      "no_image_found": "No image found in response",
+      "no_image_data": "No image data in response",
+      "upload_failed": "Image upload failed",
+      "insufficient_credits": "Insufficient credits",
+      "daily_limit_exceeded": "Daily limit exceeded",
+      "generation_failed": "Failed to generate image",
+      "api_key_missing": "API key is not configured",
+      "proxy_vpn_not_allowed": "Free generation is temporarily unavailable on this network. Your work is still here—turn off your VPN and try again, or upgrade to continue.",
+      "unexpected_output_format": "Unexpected output format from AI model",
+      "replicate_api_error": "Replicate API error",
+      "missing_prompt": "Please enter a prompt before generating the video.",
+      "missing_image_or_prompt": "Please upload an image and enter a prompt before generating the video.",
+      "reference_video_needs_fast_model": "Reference to Video only supports Veo 3.1 Fast and Veo 3.1 Lite.",
+      "first_last_frames_require_two_images": "Start/end frame mode requires 2 valid images. Please re-upload both images and try again.",
+      "reference_to_video_requires_images": "Reference to Video requires 1 to 3 valid reference images. Please upload reference images and try again.",
+      "video_concurrency_limit": "You already have two Flow Studio videos processing. Please wait for one to finish.",
+      "provider_rate_limited": "The video service is busy. Please wait a moment and try again.",
+      "prompt_safety_blocked": "This prompt does not meet our content standards. Please revise it and try again.",
+      "prompt_safety_review_required": "This prompt could not be approved automatically. Please wait and try again later.",
+      "prompt_too_long_for_video_model": "This prompt is too long for the selected video model. Please keep it under 600 characters and focus on one clear scene.",
+      "prompt_too_complex_for_video_model": "This prompt has too many scenes or camera cuts for the selected model. Please simplify it to one main scene and try again.",
+      "generation_provider_temporarily_failed_refunded": "The video service was temporarily busy. Your credits have been returned. Please try again.",
+      "generation_provider_failed_refunded": "The provider could not complete this video. Your credits have been returned. Please try again.",
+      "generation_provider_invalid_response_refunded": "The provider returned an incomplete result. Your credits have been returned. Please try again.",
+      "generation_processing_failed_refunded": "We could not process the generated result. Your credits have been returned. Please try again.",
+      "generation_failed_refunded": "Video generation failed. Your credits have been returned. Please try again.",
+      "credit_rules_query_failed": "We could not load the credit rule for this video. Please try again in a moment.",
+      "prompt_public_figure_not_supported": "This prompt may involve a public figure or celebrity. Please use a fictional character and original description instead.",
+      "prompt_copyrighted_brand_not_supported": "This prompt may involve a copyrighted character or brand. Please use an original character and general description instead.",
+      "prompt_adult_content_not_supported": "Explicit sexual content or nudity cannot be generated. Please rewrite the prompt as a safe, non-explicit scene.",
+      "prompt_sexualized_minor_not_supported": "Sexualized content involving minors or age-ambiguous young people cannot be generated. Please rewrite the prompt.",
+      "prompt_hateful_content_not_supported": "Hateful, insulting, or demeaning content cannot be generated. Please rewrite the prompt."
+    },
+    "paywall_title": "Insufficient credits. Upgrade now to continue — annual plans save 50%.",
+    "paywall_redirecting": "Redirecting to pricing...",
+    "no_watermark_label": "No Watermark",
+    "private_label": "Private",
+    "subtitle_badge": "AI Video Generation",
+    "video_quality_label": "Video Quality",
+    "video_quality_options": {
+      "480p": "480p",
+      "720p": "720p HD",
+      "1080p": "1080p Full HD",
+      "4K": "4K Ultra HD"
+    },
+    "video_duration_label": "Video Duration",
+    "video_duration_options": {
+      "4s": "4 seconds",
+      "6s": "6 seconds",
+      "8s": "8 seconds",
+      "12s": "12 seconds",
+      "15s": "15 seconds"
+    },
+    "generation_rule_missing": "Generation rule not found",
+    "generation_rule_failed": "Failed to query generation rules",
+    "image_load_failed": "Failed to load image from URL",
+    "start_frame_label": "Start Frame",
+    "start_frame_upload_text": "Upload first frame or drag image here",
+    "end_frame_label": "End Frame",
+    "end_frame_upload_text": "Upload last frame or drag image here",
+    "reference_max_images_3": "Reference to Video supports up to 3 reference images.",
+    "reference_video_duration_fixed": "Reference to Video only supports 8 seconds.",
+    "prompt_optimizer_button": "AI Optimize",
+    "prompt_optimizer_title": "Review optimized prompt",
+    "prompt_optimizer_expand": "Expanded for the selected video settings",
+    "prompt_optimizer_condense": "Condensed to fit the selected duration",
+    "prompt_optimizer_polish": "Polished for the selected video settings",
+    "prompt_optimizer_original": "Original",
+    "prompt_optimizer_recommended": "Recommended",
+    "prompt_optimizer_characters": "characters",
+    "prompt_optimizer_changes": "What changed",
+    "prompt_optimizer_warnings": "Needs attention",
+    "prompt_optimizer_keep_original": "Keep original",
+    "prompt_optimizer_use": "Use optimized prompt",
+    "prompt_optimizer_applied": "Optimized prompt applied",
+    "prompt_optimizer_failed": "Could not optimize this prompt. Please try again.",
+    "prompt_optimizer_timeout": "Prompt optimization timed out. Please try again.",
+    "prompt_optimizer_hint_expand": "Add motion and camera detail for more predictable results.",
+    "prompt_optimizer_hint_multiscene": "Multiple scenes detected. AI Optimize can fit them to the selected duration.",
+    "prompt_optimizer_hint_condense": "This prompt may be too complex for the selected duration. AI Optimize can shorten it.",
+    "prompt_preflight_title": "Optimize this prompt?",
+    "prompt_preflight_description": "This prompt may contain more detail than the selected video duration can reliably show. You can optimize it first or generate it as written.",
+    "prompt_preflight_generate_original": "Generate original"
+  },
+  "garden_styles": {
+    "title": "Flow AI Video Styles",
+    "description": "Flow AI Video provides various creative styles to produce beautiful 4K videos from text descriptions or images. Explore Flow Video Generator's capabilities for high-quality video creation with Google Flow Video motion synthesis and multi-shot storytelling.",
+    "styles": [
+      {
+        "name": "Photorealistic",
+        "image": "/imgs/showcases/1.webp"
+      },
+      {
+        "name": "Digital Art",
+        "image": "/imgs/showcases/2.webp"
+      },
+      {
+        "name": "Oil Painting",
+        "image": "/imgs/showcases/3.webp"
+      },
+      {
+        "name": "Anime Style",
+        "image": "/imgs/showcases/4.webp"
+      },
+      {
+        "name": "Fantasy Art",
+        "image": "/imgs/showcases/5.webp"
+      },
+      {
+        "name": "Cyberpunk",
+        "image": "/imgs/showcases/6.webp"
+      },
+      {
+        "name": "Watercolor",
+        "image": "/imgs/showcases/7.webp"
+      },
+      {
+        "name": "Abstract Art",
+        "image": "/imgs/showcases/8.webp"
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "How to Use Flow AI Video for AI Video Generation",
+    "subtitle": "Professional AI Video Creation in 3 Simple Steps",
+    "description": "Learn how to create stunning 4K videos using Flow Video Generator's cutting-edge AI technology. Transform text or images into cinematic videos with Google Flow Video motion synthesis and unparalleled realism.",
+    "steps": {
+      "upload": {
+        "title": "Step 1 Choose Flow Video Generator",
+        "description": "Begin by choosing the Flow Video Generator. The Flow Video Maker offers text-to-video and image-to-video creation features to craft refined 4K cinematic videos with Google Flow Video motion synthesis."
+      },
+      "style": {
+        "title": "Step 2 Upload Image or Enter Text Prompt",
+        "description": "Add an image to transform with Flow AI Video or write a text description for video creation. Flow AI Video supports both text-to-video and image-to-video methods, enabling you to create stunning Flow AI Video 4K with seamless transitions."
+      },
+      "generate": {
+        "title": "Step 3 Generate and Download Flow AI Video",
+        "description": "Press generate and Flow AI Video creates your 4K cinematic masterpiece. Review the premium video output with Flow Video Generator motion synthesis and save immediately. Flow AI Video guarantees top-tier results consistently."
+      }
+    }
+  },
+  "popular_uses": {
+    "title": "Popular Uses of Flow AI Video",
+    "description": "See how creators leverage Flow AI Video for high-quality video creation with Flow Video Generator motion synthesis. Flow AI Video provides 4K premium output for marketing campaigns, social media content, product demonstrations, and creative storytelling.",
+    "uses": {
+      "ecommerce": {
+        "title": "Product Videos for E-Commerce with Flow AI Video",
+        "description": "Produce premium 4K product videos using Flow AI Video. The Google Flow Video assists businesses in crafting polished, professional videos for product listings and advertisements with superior quality."
+      },
+      "restoration": {
+        "title": "Video Creation from Images Using Flow AI Video",
+        "description": "Transform static images into dynamic videos using Flow AI Video. Flow Video Maker creates smooth motion and transitions, bringing images to life with Google Flow Video motion synthesis."
+      },
+      "tryon": {
+        "title": "Marketing Videos Powered by Flow AI Video",
+        "description": "Create compelling marketing content with Flow AI Video. Generate lifelike Flow AI Video 4K that enhance customer experiences through Flow AI Video's advanced video generation features."
+      },
+      "background": {
+        "title": "Social Media Content with Flow AI Video",
+        "description": "Create engaging social media videos immediately with Flow AI Video Free Online. Ideal for campaigns, stories, or creative content. Flow AI Video provides smooth video generation at 4K resolution."
+      },
+      "text_editing": {
+        "title": "Creative Storytelling with Flow AI Video",
+        "description": "Craft unique narratives effortlessly with Flow AI Video. Flow Video Generator ensures seamless transitions and consistent characters with Google Flow Video motion synthesis."
+      },
+      "avatar": {
+        "title": "Multi-Shot Narratives Using Flow AI Video",
+        "description": "Create cohesive video sequences for marketing, storytelling, or content creation with Flow AI Video. Build personalized Flow AI Video 4K narratives from basic descriptions leveraging Flow Video Maker's sophisticated video creation system."
+      }
+    }
+  },
+  "ai_features": {
+    "title": "Flow AI Video Powerful Features",
+    "subtitle": "Advanced Flow AI Video Technology",
+    "description": "Flow AI Video delivers breakthrough capabilities in AI video generation.",
+    "features": {
+      "analysis": {
+        "title": "Superior Semantic Understanding",
+        "description": "Advanced language parsing enables precise control over multi-agent interactions, complex action sequences, and diverse camera movements."
+      },
+      "plant_selection": {
+        "title": "Text & Image to Video",
+        "description": "Create videos from text prompts or transform static images into dynamic video content with intelligent motion."
+      },
+      "design_optimization": {
+        "title": "Diverse Visual Styles",
+        "description": "From photorealism to anime, cyberpunk to watercolor - create in any aesthetic style with exceptional quality."
+      },
+      "seasonal_planning": {
+        "title": "4K HD Quality",
+        "description": "Generate stunning high-definition Flow AI Video 4K with smooth motion, rich details, and cinematic aesthetics."
+      },
+      "plant_database": {
+        "title": "Native Multi-Shot Storytelling",
+        "description": "Generate cohesive narrative videos with multiple shots while maintaining consistency in characters, visual style, and atmosphere across scene transitions."
+      },
+      "instant_results": {
+        "title": "Ultra-Fast Processing",
+        "description": "Industry-leading generation speed without compromising quality. Bring your creative visions to life in moments."
+      }
+    }
+  },
+  "transformations": {
+    "badge": "Real Flow AI Video Transformations",
+    "title": "What is Flow AI Video",
+    "description": "Discover how Flow AI Video converts text inputs or images into remarkable Flow AI Video 4K with Flow Video Generator motion synthesis. Flow Video provides enterprise video creation with multi-shot storytelling, seamless transitions, and unparalleled realism.",
+    "cta_title": "Ready to create with Flow AI Video?",
+    "cta_description": "Enter your text prompt or upload an image above to get started with Flow AI Video video generation",
+    "features": [
+      "Professional Flow AI Video",
+      "Lightning-fast video generation with Flow Video Maker",
+      "4K high-resolution output from Flow AI Video"
+    ],
+    "examples": [
+      {
+        "title": "Native Multi-Shot Storytelling with Flow AI Video",
+        "style": "Multi-Shot Consistency",
+        "description": "Flow AI Video delivers breakthrough multi-shot storytelling capabilities that maintain consistency in characters, visual style, and atmosphere across scene transitions. Experience industry-leading motion consistency with Flow Video Generator."
+      },
+      {
+        "title": "Flow AI Video 4K HD Quality Video Generation",
+        "style": "Professional Output",
+        "description": "Generate stunning high-definition videos with Flow AI Video in native 4K resolution. Flow AI Video delivers smooth motion, rich details, and cinematic aesthetics perfect for professional production."
+      },
+      {
+        "title": "Text & Image to Video with Flow AI Video",
+        "style": "Multi-Modal Creation",
+        "description": "Create videos from text prompts or transform static images into dynamic video content with Flow AI Video. Flow Video supports both text-to-video and image-to-video generation with intelligent motion synthesis."
+      }
+    ]
+  },
+  "video_showcase": {
+    "title": "Explore Video Creation with Flow AI Video",
+    "description": "Discover stunning AI-generated videos created with Flow AI Video. From photography to architecture, people to creative projects - see how Flow AI Video transforms ideas into cinematic Flow AI Video 4K with Flow Video Maker motion synthesis."
+  },
+  "pricing": {
+    "per_month_short": "/month",
+    "per_year_short": "/year",
+    "clink_opening": "Opening Clink…",
+    "clink_pay": "Pay with Clink",
+    "clink_error": "Clink checkout could not be started",
+    "title": "Simple, Transparent Pricing",
+    "description": "Select the ideal package to create stunning videos with Flow Video Generator",
+    "checkout_currency_notice": "Your local currency and applicable taxes are shown at checkout.",
+    "countdown": {
+      "title": "30-minute limited deal:",
+      "subtitle": "",
+      "limited_offer": "Limited Offer",
+      "black_friday_special": "Only {count} spots left",
+      "save_50_annual": "Get 50% OFF on Annual Plans",
+      "minutes": "mins",
+      "seconds": "secs"
+    },
+    "yearly_only": "Yearly only",
+    "plan_countdown": {
+      "label": "Limited offer",
+      "reset_hint": ""
+    },
+    "annual_badge": {
+      "title": "Limited Time: Save 50% with Annual Billing",
+      "save_tag": "Save 50%"
+    },
+    "yearly_credits": "{count} credits/year",
+    "yearly_credits_monthly": "{count} credits/month",
+    "monthly_credits": "{count} credits/month",
+    "weekly_credits": "{count} credits/week",
+    "credits": "Credits",
+    "monthly_images": "Up to {count} images/month",
+    "yearly_images_monthly": "Up to {count} images/month",
+    "yearly_images": "Up to {count} images/year",
+    "weekly_images": "Up to {count} images/week",
+    "one_time_images": "Up to {count} images",
+    "credit_pack": {
+      "credits": "{count} credits",
+      "never_expires": "Never expires"
+    },
+    "cancel_anytime": "Cancel anytime",
+    "one_time_description": "Pay as you go - buy credits when needed, credits never expire",
+    "cost_per_100_credits_label": "Cost per 100 credits",
+    "cancel_support_prefix": "Cancel subscription, please contact the support email:",
+    "returnDiscountModal": {
+      "titleFirst": "Special Offer Just for You!",
+      "titleSecond": "A Better Deal Before You Go!",
+      "subtitle": "Copy the coupon code below and enter it at checkout to redeem your savings. This code works on all plans — monthly, annual, and one-time purchases.",
+      "badgeFirst": "10% OFF",
+      "badgeSecond": "20% OFF",
+      "couponLabel": "YOUR COUPON CODE",
+      "copyButton": "Copy Coupon Code",
+      "ctaButton": "Use Discount and Pay Now",
+      "footerNote": "This exclusive offer is valid for 24 hours",
+      "copiedToast": "Coupon code copied",
+      "copyFailedToast": "Copy failed, please copy manually"
+    },
+    "header": {
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "Choose the perfect plan for your needs. Upgrade, downgrade, or cancel anytime.",
+      "benefits": {
+        "start_free": "Start with free credits",
+        "cancel_anytime": "Cancel anytime",
+        "secure_payment": "Secure payment"
+      },
+      "stats": {
+        "active_users": {
+          "value": "10,000+",
+          "label": "Active Users"
+        },
+        "videos_created": {
+          "value": "1M+",
+          "label": "Videos Created"
+        },
+        "user_rating": {
+          "value": "4.9/5",
+          "label": "User Rating"
+        },
+        "support": {
+          "value": "24/7",
+          "label": "Support"
+        }
+      }
+    },
+    "offer_banner": {
+      "badge_limited": "Limited Time Offer",
+      "badge_active": "Active",
+      "title": "Save on Annual Plans",
+      "discount": "50%",
+      "subtitle": "Secure your best price with our limited-time annual discount.",
+      "social_proof": "Join 10,000+ users who upgraded to Pro",
+      "rating": "4.9/5.0 rating",
+      "live": "LIVE",
+      "upgraded_today": "{count}+ upgraded today",
+      "pill_no_fees": "No setup fees",
+      "pill_cancel": "Cancel anytime",
+      "pill_money_back": "30-day money back",
+      "cta": "Get Annual Plan",
+      "cta_aria": "Upgrade to the annual plan"
+    },
+    "groups": [
+      {
+        "name": "yearly",
+        "title": "Annually",
+        "description": "Save 50%",
+        "label": "Save 50%"
+      },
+      {
+        "name": "monthly",
+        "title": "Monthly",
+        "description": "Pay as you go"
+      },
+      {
+        "name": "one-time",
+        "title": "One Time",
+        "description": "One-time purchase"
+      }
+    ],
+    "paywall_notice": "Insufficient credits. Upgrade now to continue — annual plans save 50%.",
+    "save_50": "Save 50%",
+    "plans": [
+      {
+        "title": "Basic",
+        "description": "Perfect for hobbyists and beginners",
+        "price": "$$19.9",
+        "original_price": "",
+        "unit": "/month",
+        "group": "monthly",
+        "features_title": "Everything you need to start:",
+        "features": [
+          "Flow AI Video Basic Plan",
+          "800 credits per month",
+          "Up to 40 videos/month",
+          "Flow Video Generator",
+          "Unlimited Flow AI Video downloads",
+          "Permanent Flow AI Video history",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Enterprise",
+        "description": "For teams and businesses",
+        "price": "$$99.9",
+        "original_price": "",
+        "unit": "/month",
+        "group": "monthly",
+        "label": "Most Popular",
+        "features_title": "Everything in Basic, plus:",
+        "features": [
+          "Flow AI Video Enterprise Plan",
+          "6000 credits per month",
+          "Up to 600 videos/month",
+          "Flow Video",
+          "Unlimited Flow AI Video downloads",
+          "Permanent Flow AI Video history",
+          "Commercial Use License",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Pro",
+        "description": "For creators and professionals",
+        "price": "$$39.9",
+        "original_price": "",
+        "unit": "/month",
+        "group": "monthly",
+        "features_title": "Everything in Basic, plus:",
+        "features": [
+          "Flow AI Video Pro Plan",
+          "2000 credits per month",
+          "Up to 200 videos/month",
+          "Flow Video Maker",
+          "Unlimited Flow AI Video downloads",
+          "Permanent Flow AI Video history",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Basic",
+        "description": "Perfect for hobbyists and beginners",
+        "price": "$$9.9",
+        "original_price": "",
+        "unit": "/month",
+        "group": "yearly",
+        "features_title": "Everything you need to start:",
+        "features": [
+          "Flow AI Video Basic Yearly Plan",
+          "800 credits per month (9600 credits/year)",
+          "Up to 80 videos/month",
+          "Flow Video Generator",
+          "Unlimited Flow AI Video downloads",
+          "9600 Flow AI Video credits with annual billing",
+          "Permanent Flow AI Video history",
+          "Commercial Use License",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Enterprise",
+        "description": "For teams and businesses",
+        "price": "$$49.9",
+        "original_price": "",
+        "unit": "/month",
+        "group": "yearly",
+        "label": "Most Popular",
+        "features_title": "Everything in Professional, plus:",
+        "features": [
+          "Flow AI Video Enterprise Yearly Plan",
+          "6000 credits per month (72000 credits/year)",
+          "Up to 600 videos/month",
+          "Flow Video",
+          "Unlimited Flow AI Video downloads",
+          "72000 Flow AI Video credits with annual billing",
+          "Permanent Flow AI Video history",
+          "Commercial Use License",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Professional",
+        "description": "For creators and professionals",
+        "price": "$$19.9",
+        "original_price": "",
+        "unit": "/month",
+        "group": "yearly",
+        "features_title": "Everything in Basic, plus:",
+        "features": [
+          "Flow AI Video Pro Yearly Plan",
+          "2000 credits per month (24000 credits/year)",
+          "Up to 200 videos/month",
+          "Flow Video Maker",
+          "Unlimited Flow AI Video downloads",
+          "24000 Flow AI Video credits with annual billing",
+          "Permanent Flow AI Video history",
+          "Commercial Use License",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Starter Package",
+        "description": "Great for occasional use",
+        "price": "$$29.9",
+        "group": "one-time",
+        "features_title": "Perfect for getting started:",
+        "features": [
+          "Flow AI Video Starter Package",
+          "1000 credits",
+          "Up to 50 videos",
+          "Flow Video Generator",
+          "Unlimited Flow AI Video downloads",
+          "Permanent Flow AI Video history",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Growth Package",
+        "description": "Ideal for professional creators",
+        "price": "$$49.9",
+        "group": "one-time",
+        "label": "Most Popular",
+        "features_title": "Everything in Starter, plus:",
+        "features": [
+          "Flow AI Video Growth Package",
+          "2000 credits",
+          "Up to 200 videos",
+          "Flow Video",
+          "Unlimited Flow AI Video downloads",
+          "Permanent Flow AI Video history",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Professional Package",
+        "description": "Best value for businesses & heavy users",
+        "price": "$$99.9",
+        "group": "one-time",
+        "features_title": "Everything in Growth, plus:",
+        "features": [
+          "Flow AI Video Professional Package",
+          "5000 credits",
+          "Up to 500 videos",
+          "Flow Video Maker",
+          "Unlimited Flow AI Video downloads",
+          "Permanent Flow AI Video history",
+          "Commercial Use License",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      },
+      {
+        "title": "Business Package",
+        "description": "Best value for businesses & heavy users",
+        "price": "$$199.9",
+        "group": "one-time",
+        "features_title": "Everything in Professional, plus:",
+        "features": [
+          "Flow AI Video Business Package",
+          "12000 credits",
+          "Up to 1200 videos",
+          "Flow Video Generator",
+          "Unlimited Flow AI Video downloads",
+          "Permanent Flow AI Video history",
+          "Commercial Use License",
+          "Nano Banana model",
+          "Seedream model",
+          "AI image enhancer",
+          "AI image background remover",
+          "Support AI video generation",
+          "Veo 3 model",
+          "Sora 2 model",
+          "Seedance model",
+          "Wan 2.5 model",
+          "Priority generation queue",
+          "No Watermark",
+          "Priority customer support"
+        ],
+        "button_title": "Buy Now",
+        "tip": ""
+      }
+    ],
+    "payment": {
+      "paypal": {
+        "loading": "Loading PayPal…",
+        "redirecting": "Opening PayPal…",
+        "popup_blocked": "Your browser blocked the PayPal window. Allow pop-ups and try again.",
+        "wallet_button": "PayPal",
+        "credit_button": "PayPal Credit",
+        "card_button": "Debit or Credit Card",
+        "card_title": "Pay securely by card",
+        "card_description": "Your card details are encrypted and processed directly by PayPal. They never pass through our servers.",
+        "card_number": "Card number",
+        "card_number_placeholder": "Card number",
+        "expiry": "Expiry date",
+        "expiry_placeholder": "MM / YY",
+        "security_code": "Security code",
+        "security_code_placeholder": "CVV",
+        "cardholder_name": "Cardholder name",
+        "cardholder_placeholder": "Name on card (optional)",
+        "card_invalid": "Check your card details and complete all required fields.",
+        "card_loading": "Loading secure card form…",
+        "processing_card": "Processing payment…",
+        "pay_by_card": "Secure card payment",
+        "card_unavailable": "Direct card entry is unavailable for this account or region. Please use PayPal.",
+        "credit_unavailable": "PayPal Credit is unavailable for this buyer.",
+        "powered_by": "Securely processed by PayPal",
+        "sdk_error": "PayPal payment options could not be loaded.",
+        "capture_failed": "We couldn't complete your PayPal payment.",
+        "cancelled": "PayPal checkout cancelled.",
+        "success": "Payment successful.",
+        "login_required": "Log in to continue"
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "Stats",
+    "title": "Creators Rely on Flow AI Video",
+    "description": "for everyday video work—from quick mockups to campaign-ready assets.",
+    "items": [
+      {
+        "category": "Daily creators",
+        "headline": "Growing",
+        "body": "Independent artists, marketers and founders using Flow AI Video in their workflows."
+      },
+      {
+        "category": "Countries",
+        "headline": "Global",
+        "body": "Professionals across North America, Europe and Asia trust Flow AI Video every day."
+      },
+      {
+        "category": "Use cases",
+        "headline": "Flexible",
+        "body": "From video content and storytelling to ads, social media, marketing and more."
+      }
+    ]
+  },
+  "how_to_nano": {
+    "subtitle": "Simple Steps",
+    "title": "How to Use Flow AI Video for AI Video Generation",
+    "description": "Follow these straightforward steps to generate, edit, and refine videos online with Flow AI Video's consistent and intuitive workflow powered by Flow Video Generator.",
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Step 1 Choose Flow Video Generator",
+        "description": "Begin by choosing the Flow Video Generator. The Flow Video offers text-to-video and image-to-video creation features to craft refined 4K cinematic videos with Flow Video Maker motion synthesis."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Step 2 Upload Image or Enter Text Prompt",
+        "description": "Add an image to transform with Flow AI Video or write a text description for video creation. Flow AI Video supports both text-to-video and image-to-video methods, enabling you to create stunning Flow AI Video 4K with seamless transitions."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Step 3 Generate and Download Flow AI Video",
+        "description": "Press generate and Flow AI Video creates your 4K cinematic masterpiece. Review the premium video output with Flow Video Generator motion synthesis and save immediately. Flow AI Video guarantees top-tier results consistently."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Step 4 Refine and Perfect Your Creation",
+        "description": "Use Flow AI Video's advanced editing features to fine-tune details, adjust settings, and perfect your final video with professional-grade results.",
+        "highlight": true
+      }
+    },
+    "step_label": "Step",
+    "image_alt": "How to use Flow AI Video step {index}"
+  },
+  "testimonials": {
+    "eyebrow": "Loved by Creators Worldwide",
+    "title": "What Users Say About Flow AI Video",
+    "description": "Connect with 100K+ creators who've built incredible Flow AI Video 4K AI videos using Flow AI Video. The Flow Video Generator provides premium outcomes in 15-30 seconds. Try Flow AI Video Free Online powered by Google Flow Video.",
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "location": "San Francisco, CA",
+        "quote": "I was skeptical about Flow AI Video at first, but I'm absolutely blown away by the Flow AI Video 4K results. The AI video generation capabilities exceed all my expectations!"
+      },
+      {
+        "name": "Michael R.",
+        "location": "Austin, TX",
+        "quote": "As a digital creator, I use Flow AI Video for AI video creation. It generates incredibly accurate Flow AI Video 4K in 15-30 seconds, saving me hours of work."
+      },
+      {
+        "name": "Lisa K.",
+        "location": "Seattle, WA",
+        "quote": "The Flow AI Video results for my project were perfect. It delivered stunning Flow AI Video 4K exactly as I needed."
+      },
+      {
+        "name": "David L.",
+        "location": "Miami, FL",
+        "quote": "Content creator here — we use Flow AI Video for social media videos. It helps visualize creative concepts with professional Flow AI Video 4K instantly."
+      },
+      {
+        "name": "Emma J.",
+        "location": "Portland, OR",
+        "quote": "I'm not technical, but Flow AI Video makes it easy to create professional Flow AI Video 4K. The text-to-video feature is perfect for beginners!"
+      },
+      {
+        "name": "James T.",
+        "location": "Denver, CO",
+        "quote": "The Flow AI Video 4K quality from Flow AI Video is incredible. My clients can't believe these videos came from simple text descriptions."
+      },
+      {
+        "name": "Rachel Chen",
+        "location": "New York, NY",
+        "quote": "Flow AI Video transformed my workflow completely. The speed and quality of Flow AI Video 4K generation is unmatched. Best investment for my creative business!"
+      },
+      {
+        "name": "Tom Wilson",
+        "location": "Chicago, IL",
+        "quote": "I've tried many AI video tools, but Flow AI Video stands out. The detail accuracy and consistency in character generation is phenomenal."
+      },
+      {
+        "name": "Maria Garcia",
+        "location": "Los Angeles, CA",
+        "quote": "Using Flow AI Video for my e-commerce product videos has been a game-changer. Professional quality Flow AI Video 4K in seconds, not hours!"
+      },
+      {
+        "name": "Alex Kim",
+        "location": "Boston, MA",
+        "quote": "The natural language editing feature in Flow AI Video is mind-blowing. I can describe changes and see them happen instantly. So intuitive!"
+      },
+      {
+        "name": "Sophie Brown",
+        "location": "Phoenix, AZ",
+        "quote": "Flow AI Video's text-to-video and image-to-video features are incredible. I can create multiple video concepts seamlessly. Perfect for complex creative projects!"
+      },
+      {
+        "name": "Chris Anderson",
+        "location": "Dallas, TX",
+        "quote": "As a marketer, Flow AI Video helps me create campaign videos faster than ever. The Flow AI Video 4K output quality is professional every time."
+      },
+      {
+        "name": "Jessica Lee",
+        "location": "San Diego, CA",
+        "quote": "Flow AI Video's style consistency across videos is impressive. I can maintain brand identity while exploring creative variations effortlessly."
+      },
+      {
+        "name": "Ryan Martinez",
+        "location": "Houston, TX",
+        "quote": "The text-to-video and image-to-video features in Flow AI Video are flawless. Saves me so much time on client projects. Highly recommend!"
+      },
+      {
+        "name": "Olivia Taylor",
+        "location": "Philadelphia, PA",
+        "quote": "Flow AI Video makes AI video creation accessible to everyone. No technical skills needed - just describe what you want and it delivers!"
+      },
+      {
+        "name": "Daniel Park",
+        "location": "San Jose, CA",
+        "quote": "I use Flow AI Video daily for video creation. The variety of styles and the quality of Flow AI Video 4K outputs keep me coming back. Outstanding tool!"
+      },
+      {
+        "name": "Amanda White",
+        "location": "Jacksonville, FL",
+        "quote": "Flow AI Video's prompt understanding is remarkable. It captures nuances and details I describe, creating exactly what I envision. Love it!"
+      },
+      {
+        "name": "Kevin Zhang",
+        "location": "Columbus, OH",
+        "quote": "The commercial license included with Flow AI Video plans is perfect for my agency. We use it for all client work with confidence."
+      },
+      {
+        "name": "Nicole Davis",
+        "location": "Charlotte, NC",
+        "quote": "Flow AI Video has revolutionized how I create social media content. Fast, high-quality Flow AI Video 4K that engage my audience every time."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ About Flow AI Video",
+    "description": "Find solutions to frequently asked questions about Flow Video Generator - the premium AI video generator with 4K cinematic quality",
+    "cta_title": "Ready to Experience Flow AI Video?",
+    "cta_description": "Join 100K+ creators who've created amazing Flow AI Video 4K with Flow AI Video Free Online trials",
+    "cta_button": "Start with Flow AI Video Today",
+    "stats": {
+      "gardens_designed": "AI Images Created",
+      "cities_served": "Happy Users",
+      "design_time": "Seconds Generation Time"
+    },
+    "questions": [
+      {
+        "question": "Flow AI Video where to use?",
+        "answer": "Use Flow Video Generator across web, desktop, and mobile browsers. Flow Video supports marketing clips, social media posts, and product videos with Flow AI Video 4K output. Flow AI Video runs in the cloud, so you can access projects anywhere without local installs. Flow Video Maker works seamlessly across all platforms for Flow AI Video 4K creation."
+      },
+      {
+        "question": "How to use Flow AI Video?",
+        "answer": "Flow AI Video processes text inputs or images to create beautiful Flow AI Video 4K with Flow Video Generator motion synthesis. Write descriptions for text-to-video or upload images for image-to-video conversion using Flow AI Video Free Online. The Flow Video workflow is: enter prompt, pick style, generate, download. Flow AI Video 4K generation is simple and intuitive with Flow Video Maker tools."
+      },
+      {
+        "question": "Where can I access Flow AI Video?",
+        "answer": "Access Flow AI Video Free Online on the web at the Flow Video Generator. Flow Video works on major browsers; no download required. Sign in to start with Flow AI Video Free Online credits. Flow AI Video is accessible from any device with an internet connection for creating Flow AI Video 4K content."
+      },
+      {
+        "question": "What is Flow AI Video?",
+        "answer": "Flow AI Video is an enterprise AI video generator that creates stunning Flow AI Video 4K. The Flow Video Generator delivers 4K native resolution, Flow Video motion synthesis, and multi-shot storytelling. Flow AI Video emphasizes realistic motion, seamless transitions, and strong prompt adherence for professional creators. Flow AI Video and Flow AI Video 4K outputs are perfect for marketing, social media, and professional production."
+      },
+      {
+        "question": "What formats can I download videos from Flow AI Video?",
+        "answer": "Flow AI Video creates premium Flow AI Video 4K available for download in MP4 format. Flow AI Video results work well for both individual and business purposes, with enterprise-level quality ideal for marketing campaigns, social media, and professional video production."
+      },
+      {
+        "question": "Is there a limit to the number of videos I can generate with Flow AI Video?",
+        "answer": "Flow AI Video operates on a credit basis. Every Flow AI Video 4K creation requires credits based on duration and resolution. Free users receive credits initially with Flow AI Video Free Online, while subscription plans provide credits monthly. You can produce videos with Flow AI Video whenever you have credits remaining."
+      },
+      {
+        "question": "How long does it take Flow AI Video to generate a video?",
+        "answer": "Flow AI Video produces Flow AI Video 4K with lightning-fast generation, based on complexity. Flow Video Generator's optimized processing system guarantees ultra-rapid performance with Google Flow Video motion synthesis, achieving 99.5% success rate."
+      },
+      {
+        "question": "Why Use Flow AI Video?",
+        "answer": "Flow AI Video accelerates workflow by facilitating quick Flow AI Video 4K production without complex video production expertise. Flow Video Maker comprehends text inputs, transforms images into videos with Google Flow Video motion synthesis, and creates multi-shot narratives seamlessly. Ideal for marketing campaigns, social media content, product demonstrations, and creative storytelling."
+      },
+      {
+        "question": "Is there a mobile app for Flow AI Video?",
+        "answer": "At present, Flow AI Video Free Online is a browser-based AI video generator available on smartphone browsers. Flow AI Video's adaptive layout functions excellently on mobile phones. A standalone mobile application isn't ready yet, but smartphone browser usage is completely supported for every Flow AI Video function."
+      }
+    ]
+  },
+  "x_highlights": {
+    "title": "Explore Video Creation with Flow AI Video",
+    "subtitle": "Explore beautiful Flow AI Video 4K and creators' content on X. Learn how Flow AI Video converts concepts into premium videos. Tap a card to see the original post."
+  },
+  "footer": {
+    "brand_description": "Flow AI Video is an enterprise AI video generation platform that creates stunning videos through advanced AI technology. Flow Video Generator provides Flow AI Video 4K resolution videos with Google Flow Video motion synthesis and multi-shot storytelling.",
+    "copyright": "© 2025 • Flow AI Video All rights reserved.",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "google_independence_disclaimer": "Flow AI Video is independently operated and is not affiliated with Google.",
+    "blog": "Blog"
+  },
+  "my_credits": {
+    "title": "My Credits",
+    "left_tip": "Remaining Credits: {left_credits}",
+    "no_credits": "No credit records",
+    "recharge": "Recharge",
+    "table": {
+      "trans_no": "Transaction No",
+      "trans_type": "Type",
+      "credits": "Credits",
+      "updated_at": "Updated At"
+    }
+  },
+  "my_orders": {
+    "title": "My Orders",
+    "description": "View your order history",
+    "no_orders": "No orders found",
+    "table": {
+      "order_no": "Order No",
+      "email": "Email",
+      "product_name": "Product",
+      "amount": "Amount",
+      "paid_at": "Paid At"
+    }
+  },
+  "my_images": {
+    "title": "My Generated AI Images",
+    "no_images": "No AI images generated yet",
+    "download": "Download",
+    "copy": "Copy",
+    "generation_date": "Generated",
+    "theme": "Style",
+    "elements": "Generation Details",
+    "credits_used": "Credits Used",
+    "status": "Status"
+  },
+  "my_videos": {
+    "title": "My Generated AI Videos",
+    "no_videos": "No Flow AI Video videos generated yet",
+    "status": "Status",
+    "credits_used": "Credits Used",
+    "created_at": "Created",
+    "duration": "Duration",
+    "resolution": "Resolution",
+    "view": "View",
+    "preview": "Preview"
+  },
+  "creation": {
+    "metadata_title": "My Creations | Flow AI Video",
+    "metadata_description": "View your generated AI images and videos in Flow AI Video.",
+    "sign_in_prompt": "Sign in to view your generated images and videos.",
+    "download_success": "Image downloaded successfully!",
+    "download_failed": "Failed to download image",
+    "status_completed": "Completed",
+    "status_failed": "Failed",
+    "status_processing": "Processing",
+    "status_pending": "Pending"
+  },
+  "blog": {
+    "title": "Flow AI Video Blog - Tips, Guides & Creative Inspiration",
+    "description": "Expert advice on Flow AI Video video generation, prompt tips, creative techniques, and the latest trends in Flow AI Video 4K creation with Flow Video Generator.",
+    "read_more_text": "Read More",
+    "featured_post": "Featured Article",
+    "latest_posts": "Latest Posts",
+    "categories": "Categories",
+    "tags": "Tags",
+    "share": "Share Article",
+    "related_posts": "Related Articles"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "try_again": "Try Again",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close"
+  },
+  "cookie": {
+    "banner": {
+      "title": "🍪 Cookie Notice",
+      "description": "We use cookies to enhance your experience and analyze website traffic. You can manage your preferences at any time.",
+      "privacy_link": "Privacy Policy",
+      "accept_all": "Accept All",
+      "reject_all": "Decline Optional",
+      "settings": "Manage Cookies",
+      "saved": "✓ Settings Saved"
+    },
+    "settings": {
+      "title": "Cookie Settings",
+      "description": "Manage your cookie preferences. You can change these settings at any time to control how we use cookies to enhance your experience.",
+      "necessary": {
+        "title": "Necessary Cookies",
+        "description": "These cookies are essential for the website's basic functionality and cannot be disabled.",
+        "always_enabled": "Always Enabled",
+        "purposes": [
+          "User authentication and session management",
+          "Website security and protection",
+          "Basic functionality and page navigation",
+          "Remembering your preference settings"
+        ]
+      },
+      "analytics": {
+        "title": "Analytics Cookies",
+        "description": "Help us understand how the website is used to improve user experience.",
+        "services": [
+          "Google Analytics: Website traffic and user behavior analysis",
+          "Microsoft Clarity: User experience and page heatmap analysis",
+          "Plausible Analytics: Privacy-friendly traffic statistics"
+        ],
+        "data_collected": "Data collected: Page views, session duration, click heatmaps, device information (anonymized)"
+      },
+      "marketing": {
+        "title": "Marketing Cookies",
+        "description": "Used to display relevant ads and marketing content.",
+        "purposes": [
+          "Google Ads and Facebook advertising",
+          "Retargeting ads and personalized recommendations",
+          "Advertising effectiveness measurement and optimization",
+          "Social media integration features"
+        ],
+        "retention": "Data retention: Maximum 365 days, users can withdraw consent at any time"
+      },
+      "save_settings": "Save Settings",
+      "reset_all": "Reset All Cookies",
+      "info": {
+        "title": "Learn More",
+        "points": [
+          "Your cookie preferences are saved in your browser for 365 days",
+          "You can change these settings at any time or clear all cookies through your browser settings",
+          "Disabling certain cookies may affect some website functionality",
+          "If you have any questions, please check our {privacyLink} or contact our support team"
+        ]
+      }
+    }
+  },
+  "showcase": {
+    "title": "Showcase Gallery - Flow AI Video",
+    "description": "Browse incredible Flow AI Video 4K built by our community through Flow AI Video. Find inspiration from premium video creations with Flow Video Generator motion synthesis and multi-shot storytelling produced with Google Flow Video.",
+    "subtitle": "Community Featured",
+    "gallery_title": "Showcase Gallery",
+    "gallery_description": "Browse incredible Flow AI Video 4K creations built by our community through Flow AI Video",
+    "cta": {
+      "try_now": "Try Now"
+    },
+    "filters": {
+      "all": "All",
+      "portrait": "Portrait",
+      "landscape": "Landscape",
+      "product": "Product",
+      "creative": "Creative",
+      "anime": "Anime"
+    },
+    "gallery": {
+      "try_this": "Try This",
+      "prompt_label": "Prompt:",
+      "likes_label": "Likes",
+      "date_label": "Date"
+    },
+    "load_more": "Load More",
+    "ready_section": {
+      "title": "Ready to Create Your Masterpiece?",
+      "description": "Connect with 100K+ creators using Flow AI Video to convert ideas into stunning Flow AI Video 4K",
+      "button": "Start Creating"
+    }
+  },
+  "pricing_payment": {
+    "secure_title": "Secure payment powered by",
+    "title": "Pay safely and securely with",
+    "stripe": "Stripe",
+    "more": "More"
+  },
+  "pricing_faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Get answers to common questions about our pricing plans and credits system",
+    "support": {
+      "title": "Have more questions? We're here to help",
+      "description": "Can't find the answer you're looking for? Our support team is ready to assist you."
+    },
+    "questions": [
+      {
+        "question": "What are credits and how do they work?",
+        "answer": "10 credits generate 1 high-quality image. Credits are automatically refilled at the start of each billing cycle - monthly for monthly plans, all at once for yearly plans. One-time credit packs never expire."
+      },
+      {
+        "question": "Can I change my plan anytime?",
+        "answer": "Yes, you can upgrade or downgrade your plan at any time. Upgrades take effect immediately, while downgrades take effect at the next billing cycle. Your current credits will remain available."
+      },
+      {
+        "question": "Do unused credits roll over?",
+        "answer": "Monthly plan credits do not roll over to the next month. Yearly plan credits are valid for the entire subscription period. One-time credit packs never expire. We recommend choosing a plan based on your actual usage needs."
+      },
+      {
+        "question": "What payment methods are supported?",
+        "answer": "We support credit cards, debit cards, and various other payment methods through Stripe. All payments are processed securely through our trusted payment partners."
+      },
+      {
+        "question": "Can I cancel my subscription anytime?",
+        "answer": "Yes, you can cancel your subscription at any time. You'll continue to have access to your plan benefits until the end of your current billing period. For assistance with cancellation, please contact our support team."
+      },
+      {
+        "question": "What's the difference between monthly and yearly plans?",
+        "answer": "Yearly plans offer significant savings - up to 20% off compared to monthly billing. Monthly plans give you flexibility with month-to-month commitment, while yearly plans provide better value for long-term users."
+      },
+      {
+        "question": "How do one-time credit packs work?",
+        "answer": "One-time credit packs are perfect if you don't need regular monthly credits. You pay once and get credits that never expire. These are ideal for occasional users or those who want to try our service without a subscription."
+      },
+      {
+        "question": "What happens if I run out of credits?",
+        "answer": "If you run out of credits, you can either wait for your next billing cycle (for subscription plans) or purchase additional one-time credit packs. You can also upgrade your plan to get more monthly credits."
+      },
+      {
+        "question": "Are there any hidden fees?",
+        "answer": "No, there are no hidden fees. The price you see is exactly what you'll pay. All taxes and processing fees are clearly shown during checkout before you complete your purchase."
+      },
+      {
+        "question": "Can I use generated images commercially?",
+        "answer": "Yes, all our paid plans include commercial usage rights. You can use the AI-generated images for business purposes, marketing, social media, and other commercial applications. Free trial images may have usage restrictions."
+      }
+    ]
+  },
+  "sora2Pricing": {
+    "title": "Sora 2 API Pricing Comparison: Kie.ai vs OpenAI vs Fal.ai",
+    "description": "Kie.ai provides Sora 2 API and Sora 2 Pro API at more than 60% lower cost than OpenAI and Fal.ai. With synchronized audio support, stable performance, and flexible access, it's the most cost-effective way to use Sora 2 for both creators and developers.",
+    "provider": "PROVIDER",
+    "sora2": "SORA 2",
+    "sora2Pro720p": "SORA 2 PRO (720P)",
+    "sora2Pro1080p": "SORA 2 PRO (1080P)",
+    "recommended": "Recommended",
+    "feature1": {
+      "title": "Synchronized Audio",
+      "description": "Native audio generation with perfect lip-sync"
+    },
+    "feature2": {
+      "title": "Stable Performance",
+      "description": "Reliable API with 99.9% uptime"
+    },
+    "feature3": {
+      "title": "Flexible Access",
+      "description": "Easy integration with REST API"
+    }
+  },
+  "sora2VsVeo3": {
+    "title": "Sora 2 vs Veo 3 — Model Comparison",
+    "description": "Sora 2 API and Veo 3 are advanced AI video generation models available in 2025. Sora 2 focuses on flexible text-to-video and image-to-video generation with strong creative control, physics consistency, and HD output. Veo 3 emphasizes realism and audio-visual synchronization, offering up to 1080p resolution and native audio. Developers may prefer Sora 2 for customizable, narrative-driven content and easy API integration. Veo 3 is better suited for high-fidelity, realistic video production through Google's Gemini API ecosystem.",
+    "feature": "Feature",
+    "inputModes": "Input modes",
+    "audioGeneration": "Audio generation",
+    "resolution": "Resolution",
+    "clipLength": "Clip length",
+    "promptAdherence": "Prompt adherence",
+    "developerAccess": "Developer access",
+    "watermarking": "Watermarking",
+    "strengths": "Strengths",
+    "limitations": "Limitations",
+    "sora2InputModes": "Text-to-Video; Image-to-Video",
+    "veo3InputModes": "Text-to-Video; Image-to-Video",
+    "sora2AudioGeneration": "Native audio (dialogue, ambience, SFX)",
+    "veo3AudioGeneration": "Produces native audio with lip-sync and ambient sound (less detailed laye)",
+    "sora2Resolution": "Up to 1080p (Pro); typically HD",
+    "veo3Resolution": "Up to 1080p",
+    "sora2ClipLength": "Up to 10s (standard); up to 15s (Pro)",
+    "veo3ClipLength": "Short-form focus; many demos ~8s",
+    "sora2PromptAdherence": "High controllability; good for stylized/narrative; improved physics",
+    "veo3PromptAdherence": "High realism; accurate lighting and A/V sync; less flexible",
+    "sora2DeveloperAccess": "Sora 2 API (REST, taskld, callback)",
+    "veo3DeveloperAccess": "Google Gemini API / Vertex AI",
+    "sora2Watermarking": "Not publicly emphasized",
+    "veo3Watermarking": "Visible \"Veo\" + SynthID invisible",
+    "sora2Strengths": "Creative control; flexible styling",
+    "veo3Strengths": "Realistic output; synchronized audio-video",
+    "sora2Limitations": "No 1080p support; invite-only rollout",
+    "veo3Limitations": "Heavier compute; access limits; watermark"
+  },
+  "paySuccess": {
+    "paymentConfirmed": "Payment confirmed",
+    "title": "Subscription successful, thank you for your support",
+    "description": "We are preparing a complete experience for you. The page will automatically redirect to the homepage in {seconds} seconds.",
+    "autoRedirect": "Redirecting to homepage in {seconds} seconds...",
+    "transactionId": "Transaction ID",
+    "paymentAmount": "Payment Amount",
+    "loading": "Loading...",
+    "backToHome": "Return to Homepage",
+    "viewSubscription": "View Subscription Details"
+  },
+  "auth_error": {
+    "title": "Sign-in did not complete",
+    "description": "Google could not finish this sign-in attempt. Please try again; your account and credits are safe.",
+    "retry_google": "Try Google again",
+    "retrying": "Opening Google...",
+    "back_home": "Back to home",
+    "error_code": "Error code: {code}",
+    "hint": "If this keeps happening, close extra Google sign-in tabs and start again from this page."
+  },
+  "features": {
+    "features": {
+      "multi_model": {
+        "title": "Multi-model video generation",
+        "description": "Choose the best AI video model for text-to-video, image-to-video, fast drafts, or higher-quality cinematic outputs."
+      }
+    }
+  },
+  "checkout_exit_offer": {
+    "close": "Close",
+    "title": "You saved {amount} on this order",
+    "expires": "until your offer expires",
+    "discount": "Your savings",
+    "limited_offer": "Limited-time offer",
+    "leaving_expires": "Expires when you leave",
+    "continue_checkout": "Continue checkout",
+    "decline": "No thanks, give up my discount",
+    "expired": "Offer expired",
+    "checkout_failed": "We couldn't reopen checkout. Please try again."
+  }
+}

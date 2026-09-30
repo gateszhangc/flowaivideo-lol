@@ -1,0 +1,23 @@
+# Flow AI Video
+
+> Flow AI Video is an AI video generator for text to video and image to video creation: 4K cinematic output, multi-shot storytelling, diverse visual styles and fast rendering in one browser studio.
+
+## Essentials
+
+- Site: https://flowaivideo.lol
+- What it does: turn a text prompt or a still image into a cinematic 4K video in the browser
+- Models: Gemini Omni Flash, Veo 3.1, Seedance 2.5, Kling, Wan 2.5, Nano Banana, GPT Image 2
+- Capabilities: text to video, image to video, reference to video, multi-shot consistency, 4K HD output, ultra-fast processing
+- Billing: Basic, Professional and Enterprise subscriptions, monthly or annual, plus one-time credit packs
+- Support: support@flowaivideo.lol
+
+## Pages
+
+- [Home](https://flowaivideo.lol/): studio, sample videos, feature overview, how it works, pricing summary, stats and FAQ
+- [Pricing](https://flowaivideo.lol/pricing): subscription plans and credit packs with the full pricing FAQ
+
+## Notes
+
+- English only.
+- Credits are the usage unit for generation; credits are shown before a run starts.
+- Plans and packs are billed securely through Stripe.

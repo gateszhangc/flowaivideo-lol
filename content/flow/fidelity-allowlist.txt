@@ -1,0 +1,27 @@
+# Reference lines that the clone intentionally does not render.
+#
+# Format: <page>|<reference line>::<reason>
+# `check-fidelity.mjs` ignores these and reports the count it skipped.
+
+# --- site chrome -----------------------------------------------------------
+home|Template::the reference links to a template gallery; out of scope for v1
+home|Blog::the reference blog is out of scope for v1
+home|English::the locale switcher is hidden; this site is English only
+home|20 Credits::the credit chip only renders for a signed-in account
+home|切换到中文？::the reference language-switch prompt; this site is English only
+home|检测到您可能更习惯使用中文，是否切换到中文版本？::same
+home|Close::same
+home|Buy Now::the monthly plan CTA; the landing summary shows the annual CTA
+home|Pay Now::the one-time CTA lives on /pricing
+
+pricing|Template::the reference links to a template gallery; out of scope for v1
+pricing|Blog::the reference blog is out of scope for v1
+pricing|English::the locale switcher is hidden; this site is English only
+pricing|20 Credits::the credit chip only renders for a signed-in account
+pricing|切换到中文？::the reference language-switch prompt; this site is English only
+pricing|检测到您可能更习惯使用中文，是否切换到中文版本？::same
+pricing|Close::same
+pricing|Buy Now::the monthly plan CTA; the annual tab is the default
+pricing|Pay Now::the one-time CTA lives on the third pricing tab
+pricing|Copy::coupon-code dialog copy; the template checkout has no coupon step
+pricing|🔥::decorative emoji in the reference countdown banner

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title>Waffo Pancake</title>
+  <rect width="48" height="48" rx="12" fill="#111827"/>
+  <ellipse cx="24" cy="17" rx="13" ry="6" fill="#f6c453"/>
+  <path d="M11 17v5c0 3.3 5.8 6 13 6s13-2.7 13-6v-5c0 3.3-5.8 6-13 6s-13-2.7-13-6Z" fill="#eaa63e"/>
+  <path d="M11 23v5c0 3.3 5.8 6 13 6s13-2.7 13-6v-5c0 3.3-5.8 6-13 6s-13-2.7-13-6Z" fill="#d88d2b"/>
+  <circle cx="24" cy="14" r="2" fill="#fff2b2"/>
+</svg>
